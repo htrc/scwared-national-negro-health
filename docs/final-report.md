@@ -2,6 +2,7 @@
 
 The final report for this SCWAReD project was delivered as a presentation by Professor Kim Gallon at 2021 HathiTrust Member Meeting.
 
+{% include youtube.html id="ajk4d2BN2-4?t=4785" %}  
 <!--
 https://youtu.be/ajk4d2BN2-4?t=4785
 
