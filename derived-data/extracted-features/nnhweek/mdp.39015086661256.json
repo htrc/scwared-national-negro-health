@@ -1,0 +1,5675 @@
+{
+    "@context": "https://worksets.htrc.illinois.edu/context/ef_context.jsonld",
+    "schemaVersion": "https://schemas.hathitrust.org/EF_Schema_v_3.0",
+    "id": "https://data.analytics.hathitrust.org/extracted-features/20200210/mdp.39015086661256",
+    "htid": "mdp.39015086661256",
+    "type": "DataFeed",
+    "publisher": {
+        "id": "https://analytics.hathitrust.org",
+        "type": "Organization",
+        "name": "HathiTrust Research Center"
+    },
+    "datePublished": 20200210,
+    "metadata": {
+        "schemaVersion": "https://schemas.hathitrust.org/EF_Schema_MetadataSubSchema_v_3.0",
+        "id": "http://hdl.handle.net/2027/mdp.39015086661256",
+        "type": [
+            "DataFeedItem",
+            "PublicationVolume"
+        ],
+        "dateCreated": 20200209,
+        "title": "National negro health week.",
+        "contributor": {
+            "id": "http://www.viaf.org/viaf/155861449",
+            "type": "http://id.loc.gov/ontologies/bibframe/Jurisdiction",
+            "name": "United States. Public Health Service"
+        },
+        "pubDate": 1934,
+        "pubPlace": {
+            "id": "http://id.loc.gov/vocabulary/countries/dcu",
+            "type": "http://id.loc.gov/ontologies/bibframe/Place",
+            "name": "District of Columbia"
+        },
+        "language": "eng",
+        "accessRights": "pd",
+        "accessProfile": "google",
+        "sourceInstitution": {
+            "type": "http://id.loc.gov/ontologies/bibframe/Organization",
+            "name": "MIU"
+        },
+        "mainEntityOfPage": [
+            "https://catalog.hathitrust.org/Record/002138772",
+            "http://catalog.hathitrust.org/api/volumes/brief/oclc/37342087.json",
+            "http://catalog.hathitrust.org/api/volumes/full/oclc/37342087.json"
+        ],
+        "oclc": "37342087",
+        "genre": [
+            "http://id.loc.gov/vocabulary/marcgt/doc",
+            "http://id.loc.gov/vocabulary/marcgt/gov"
+        ],
+        "enumerationChronology": "no.20 1934",
+        "typeOfResource": "http://id.loc.gov/ontologies/bibframe/Text",
+        "lastRightsUpdateDate": 20190110,
+        "isPartOf": {
+            "id": "http://www.worldcat.org/oclc/37342087",
+            "type": "CreativeWorkSeries",
+            "journalTitle": "National negro health week."
+        }
+    },
+    "features": {
+        "schemaVersion": "https://schemas.hathitrust.org/EF_Schema_FeaturesSubSchema_v_3.0",
+        "id": "http://hdl.handle.net/2027/mdp.39015086661256",
+        "type": "DataFeedItem",
+        "dateCreated": 20200124,
+        "pageCount": 8,
+        "pages": [
+            {
+                "seq": "00000001",
+                "version": "6fa54c0eb81d3aa3bca60303992cc329",
+                "tokenCount": 130,
+                "lineCount": 17,
+                "emptyLineCount": 1,
+                "sentenceCount": 5,
+                "header": null,
+                "body": {
+                    "tokenCount": 130,
+                    "lineCount": 17,
+                    "emptyLineCount": 1,
+                    "sentenceCount": 5,
+                    "capAlphaSeq": 2,
+                    "beginCharCount": {
+                        "E": 1,
+                        "*": 1,
+                        "N": 1,
+                        "T": 1,
+                        "t": 1,
+                        "U": 1,
+                        "F": 1,
+                        "A": 1,
+                        "I": 2,
+                        "-": 1,
+                        "L": 1,
+                        "º": 1,
+                        "Z": 1,
+                        "z": 1,
+                        "S": 1
+                    },
+                    "endCharCount": {
+                        "E": 1,
+                        "Š": 1,
+                        "s": 1,
+                        "4": 1,
+                        ".": 2,
+                        "Y": 1,
+                        "\"": 1,
+                        ";": 1,
+                        "L": 1,
+                        "?": 1,
+                        "º": 2,
+                        "K": 1,
+                        ":": 1,
+                        "o": 1
+                    },
+                    "tokenPosCount": {
+                        "E": {
+                            "NN": 3
+                        },
+                        "NATIONAL": {
+                            "NNP": 1
+                        },
+                        "Š": {
+                            "NNP": 1
+                        },
+                        "``": {
+                            "``": 1
+                        },
+                        "PROGRAM": {
+                            "NN": 1
+                        },
+                        "8": {
+                            "CD": 1
+                        },
+                        "For": {
+                            "IN": 1
+                        },
+                        "c3": {
+                            "NN": 1
+                        },
+                        "With": {
+                            "IN": 1
+                        },
+                        "his": {
+                            "PRP$": 1
+                        },
+                        "*": {
+                            "SYM": 1
+                        },
+                        "77": {
+                            "CD": 1
+                        },
+                        "ºf": {
+                            "NN": 1
+                        },
+                        ".": {
+                            ".": 3
+                        },
+                        "In": {
+                            "IN": 1
+                        },
+                        "N": {
+                            "NN": 3
+                        },
+                        "would": {
+                            "MD": 1
+                        },
+                        "ZZ": {
+                            "NNP": 1
+                        },
+                        "THE": {
+                            "DT": 1
+                        },
+                        "if": {
+                            "IN": 1
+                        },
+                        "T": {
+                            "NN": 3
+                        },
+                        "APRIL": {
+                            "NNP": 1,
+                            "NN": 1
+                        },
+                        "Y": {
+                            "NN": 1
+                        },
+                        "must": {
+                            "MD": 1
+                        },
+                        "Us": {
+                            "NNP": 1
+                        },
+                        "Fruits": {
+                            "NNS": 1
+                        },
+                        "do": {
+                            "VB": 1
+                        },
+                        "D.": {
+                            "NNP": 1
+                        },
+                        "Let": {
+                            "VB": 1
+                        },
+                        "ANNIVERSARY": {
+                            "NNP": 1
+                        },
+                        "&": {
+                            "CC": 1
+                        },
+                        "it": {
+                            "PRP": 1
+                        },
+                        "N.": {
+                            "NNP": 1
+                        },
+                        "A": {
+                            "NN": 2
+                        },
+                        "a": {
+                            "DT": 1
+                        },
+                        "tº": {
+                            "NN": 1
+                        },
+                        "well": {
+                            "RB": 2
+                        },
+                        "7.2": {
+                            "CD": 1
+                        },
+                        "U.": {
+                            "NNP": 1
+                        },
+                        "National": {
+                            "NNP": 1
+                        },
+                        "I": {
+                            "CD": 2
+                        },
+                        "HINGTON": {
+                            "NNP": 1
+                        },
+                        "that": {
+                            "IN": 1
+                        },
+                        "ER": {
+                            "NN": 1
+                        },
+                        "z/4": {
+                            "NN": 1
+                        },
+                        "-": {
+                            ":": 4
+                        },
+                        "Our": {
+                            "PRP$": 1
+                        },
+                        ",": {
+                            ",": 6
+                        },
+                        "Endeavors": {
+                            "NNS": 1
+                        },
+                        "Most": {
+                            "JJS": 1
+                        },
+                        ";": {
+                            ":": 1
+                        },
+                        "was": {
+                            "VBD": 1
+                        },
+                        "week": {
+                            "NN": 1
+                        },
+                        "HEALTH": {
+                            "NNP": 3,
+                            "NN": 1
+                        },
+                        "1": {
+                            "CD": 1
+                        },
+                        "SERVICE": {
+                            "NNP": 2
+                        },
+                        "V": {
+                            "NN": 1
+                        },
+                        "UNITED": {
+                            "NNP": 1
+                        },
+                        "L": {
+                            "NN": 1
+                        },
+                        "Life": {
+                            "NNP": 1
+                        },
+                        "ISSUED": {
+                            "VBD": 1
+                        },
+                        "zo": {
+                            "NN": 1
+                        },
+                        "ASPIRATIONS": {
+                            "NNS": 1
+                        },
+                        "1934": {
+                            "CD": 1
+                        },
+                        "he": {
+                            "PRP": 1
+                        },
+                        "P": {
+                            "NN": 1
+                        },
+                        "D.C.": {
+                            "NNP": 1
+                        },
+                        "WEEK": {
+                            "NNP": 1
+                        },
+                        "HEALTHWEEK": {
+                            "NN": 1
+                        },
+                        "7.5624": {
+                            "CD": 1
+                        },
+                        "U.S.": {
+                            "NNP": 1
+                        },
+                        "?": {
+                            ".": 1
+                        },
+                        "reckoned": {
+                            "VBD": 1
+                        },
+                        "STATES": {
+                            "NNS": 1
+                        },
+                        "life": {
+                            "NN": 1
+                        },
+                        "H": {
+                            "NN": 1
+                        },
+                        "be": {
+                            "VB": 1
+                        },
+                        "Putting": {
+                            "VBG": 1
+                        },
+                        "into": {
+                            "IN": 1
+                        },
+                        "W": {
+                            "NN": 1
+                        },
+                        "COMMITTEE": {
+                            "NNP": 1
+                        },
+                        "BY": {
+                            "IN": 1
+                        },
+                        "º": {
+                            "NNP": 1,
+                            "SYM": 1
+                        },
+                        ":": {
+                            ":": 1
+                        },
+                        "R": {
+                            "NN": 2
+                        },
+                        "TO": {
+                            "TO": 1
+                        },
+                        "Him": {
+                            "PRP": 1
+                        },
+                        "3": {
+                            "CD": 1
+                        },
+                        "''": {
+                            "''": 2
+                        },
+                        "SUNDAY": {
+                            "NNP": 2
+                        },
+                        "PUBLIC": {
+                            "NNP": 2
+                        },
+                        "NEGRO": {
+                            "NNP": 1,
+                            "NN": 1
+                        },
+                        "write": {
+                            "VB": 1
+                        },
+                        "of": {
+                            "IN": 1
+                        },
+                        "/": {
+                            ":": 1
+                        },
+                        "Honor": {
+                            "NN": 1
+                        },
+                        "S": {
+                            "NN": 1
+                        },
+                        "the": {
+                            "DT": 3
+                        }
+                    }
+                },
+                "footer": null,
+                "calculatedLanguage": "en"
+            },
+            {
+                "seq": "00000002",
+                "version": "65b398e4015eca077bc2a552543f24ae",
+                "tokenCount": 632,
+                "lineCount": 60,
+                "emptyLineCount": 7,
+                "sentenceCount": 30,
+                "header": null,
+                "body": {
+                    "tokenCount": 632,
+                    "lineCount": 60,
+                    "emptyLineCount": 7,
+                    "sentenceCount": 30,
+                    "capAlphaSeq": 3,
+                    "beginCharCount": {
+                        "s": 4,
+                        "*": 1,
+                        "n": 1,
+                        "N": 1,
+                        "T": 1,
+                        "t": 5,
+                        "f": 2,
+                        "F": 1,
+                        "a": 3,
+                        "m": 1,
+                        "M": 1,
+                        "i": 2,
+                        "-": 2,
+                        "1": 1,
+                        "V": 1,
+                        "b": 1,
+                        "P": 2,
+                        "p": 5,
+                        "c": 2,
+                        "W": 1,
+                        "(": 8,
+                        "º": 1,
+                        "w": 1,
+                        "O": 1,
+                        "o": 2,
+                        "S": 1,
+                        "d": 1
+                    },
+                    "endCharCount": {
+                        "E": 1,
+                        "e": 3,
+                        "s": 1,
+                        "n": 3,
+                        ".": 11,
+                        "N": 3,
+                        "y": 1,
+                        "t": 1,
+                        "f": 1,
+                        "a": 1,
+                        "-": 6,
+                        ",": 2,
+                        "l": 4,
+                        "H": 1,
+                        "º": 3,
+                        "r": 3,
+                        "w": 1,
+                        ":": 1,
+                        "R": 1,
+                        "k": 1,
+                        "d": 4
+                    },
+                    "tokenPosCount": {
+                        "e": {
+                            "LS": 1
+                        },
+                        "lodges": {
+                            "NNS": 1
+                        },
+                        "health": {
+                            "NN": 2
+                        },
+                        "committees": {
+                            "NNS": 4
+                        },
+                        "clinics.-This": {
+                            "JJ": 1
+                        },
+                        "for": {
+                            "IN": 9
+                        },
+                        "organization": {
+                            "NN": 7
+                        },
+                        "personnel": {
+                            "NNS": 1
+                        },
+                        "``": {
+                            "``": 2
+                        },
+                        "program": {
+                            "NN": 2
+                        },
+                        "organized": {
+                            "VBN": 1
+                        },
+                        "schools": {
+                            "NNS": 1
+                        },
+                        "business": {
+                            "NN": 1
+                        },
+                        "community": {
+                            "NN": 2
+                        },
+                        "Each": {
+                            "DT": 1
+                        },
+                        "appointed": {
+                            "VBN": 1
+                        },
+                        "conveniently": {
+                            "RB": 1
+                        },
+                        "newspaper": {
+                            "NN": 2
+                        },
+                        "THEY": {
+                            "JJ": 1
+                        },
+                        "chiefly": {
+                            "RB": 1
+                        },
+                        "leaders": {
+                            "NNS": 3
+                        },
+                        "this": {
+                            "DT": 1
+                        },
+                        "in": {
+                            "IN": 6
+                        },
+                        "have": {
+                            "VB": 4
+                        },
+                        "needed": {
+                            "VBN": 2
+                        },
+                        "your": {
+                            "PRP$": 5
+                        },
+                        "success": {
+                            "NN": 1
+                        },
+                        "are": {
+                            "VBP": 2
+                        },
+                        "is": {
+                            "VBZ": 1
+                        },
+                        "why": {
+                            "WRB": 1
+                        },
+                        "task": {
+                            "NN": 1
+                        },
+                        "require": {
+                            "VB": 1
+                        },
+                        "*": {
+                            "SYM": 1
+                        },
+                        "tie": {
+                            "VB": 1
+                        },
+                        "among": {
+                            "IN": 1
+                        },
+                        "Negro": {
+                            "NNP": 1
+                        },
+                        "TAKE": {
+                            "VB": 1
+                        },
+                        "talks": {
+                            "NNS": 1
+                        },
+                        "subject": {
+                            "NN": 1
+                        },
+                        "than": {
+                            "IN": 1
+                        },
+                        "extent": {
+                            "NN": 1
+                        },
+                        "meeting": {
+                            "NN": 3
+                        },
+                        "This": {
+                            "DT": 3
+                        },
+                        ".": {
+                            ".": 28
+                        },
+                        "but": {
+                            "CC": 1
+                        },
+                        "9": {
+                            "CD": 1
+                        },
+                        "best": {
+                            "JJS": 1
+                        },
+                        "agencies": {
+                            "NNS": 4
+                        },
+                        "what": {
+                            "WP": 1,
+                            "WDT": 1
+                        },
+                        "different": {
+                            "JJ": 1
+                        },
+                        "would": {
+                            "MD": 1
+                        },
+                        "Out": {
+                            "IN": 1
+                        },
+                        "THE": {
+                            "DT": 1
+                        },
+                        "if": {
+                            "IN": 1
+                        },
+                        "good": {
+                            "JJ": 1
+                        },
+                        "securing": {
+                            "VBG": 2
+                        },
+                        "suggested": {
+                            "JJ": 1
+                        },
+                        "follows": {
+                            "VBZ": 1
+                        },
+                        "carefully": {
+                            "RB": 1
+                        },
+                        "intervals": {
+                            "NNS": 2
+                        },
+                        "up": {
+                            "RP": 1
+                        },
+                        "Make": {
+                            "VB": 2
+                        },
+                        "observance": {
+                            "NN": 1
+                        },
+                        "short": {
+                            "JJ": 1
+                        },
+                        "all": {
+                            "DT": 5
+                        },
+                        "responsible": {
+                            "JJ": 1
+                        },
+                        "workers": {
+                            "NNS": 1
+                        },
+                        "features": {
+                            "NNS": 1
+                        },
+                        "campaign": {
+                            "NN": 3
+                        },
+                        "f": {
+                            "LS": 1
+                        },
+                        "determine": {
+                            "VB": 1
+                        },
+                        "before": {
+                            "IN": 1
+                        },
+                        "rank": {
+                            "NN": 1
+                        },
+                        "it": {
+                            "PRP": 5
+                        },
+                        "persons": {
+                            "NNS": 1
+                        },
+                        "sorts": {
+                            "NNS": 1
+                        },
+                        "!": {
+                            ".": 1
+                        },
+                        "newspapers": {
+                            "NNS": 1
+                        },
+                        "A": {
+                            "DT": 2
+                        },
+                        "entire": {
+                            "JJ": 1
+                        },
+                        "a": {
+                            "LS": 1,
+                            "DT": 10
+                        },
+                        "mºsphºrumº": {
+                            "NN": 1
+                        },
+                        "Seek": {
+                            "VB": 1
+                        },
+                        "advance": {
+                            "NN": 1
+                        },
+                        "preliminary": {
+                            "JJ": 3
+                        },
+                        "colored": {
+                            "VBN": 1
+                        },
+                        "tº": {
+                            "NN": 1
+                        },
+                        "biggest": {
+                            "JJS": 1
+                        },
+                        "as": {
+                            "IN": 7
+                        },
+                        "Year-Round": {
+                            "NNP": 1
+                        },
+                        "well": {
+                            "RB": 2
+                        },
+                        "has": {
+                            "VBZ": 1
+                        },
+                        "Health": {
+                            "NNP": 7
+                        },
+                        "direction": {
+                            "NN": 1
+                        },
+                        "prepared": {
+                            "JJ": 1
+                        },
+                        "coming": {
+                            "VBG": 1
+                        },
+                        "selected": {
+                            "VBN": 1
+                        },
+                        "Executive": {
+                            "NNP": 1
+                        },
+                        "-LRB-": {
+                            "-LRB-": 9
+                        },
+                        "certain": {
+                            "JJ": 2
+                        },
+                        "or": {
+                            "CC": 1
+                        },
+                        "voluntary": {
+                            "JJ": 1
+                        },
+                        "'s": {
+                            "POS": 1
+                        },
+                        "OF": {
+                            "IN": 1
+                        },
+                        "ORGANIZATION": {
+                            "NN": 1,
+                            "NNP": 1
+                        },
+                        "publicity": {
+                            "NN": 2
+                        },
+                        "groups": {
+                            "NNS": 1
+                        },
+                        "such": {
+                            "JJ": 2
+                        },
+                        "they": {
+                            "PRP": 1
+                        },
+                        "doctors": {
+                            "NNS": 1
+                        },
+                        "each": {
+                            "DT": 1
+                        },
+                        "National": {
+                            "NNP": 1
+                        },
+                        "social": {
+                            "JJ": 3
+                        },
+                        "COME": {
+                            "NN": 1
+                        },
+                        "daily": {
+                            "RB": 1
+                        },
+                        "committee": {
+                            "NN": 10
+                        },
+                        "work": {
+                            "NN": 1
+                        },
+                        "outstanding": {
+                            "JJ": 1
+                        },
+                        "that": {
+                            "DT": 1
+                        },
+                        "amount": {
+                            "NN": 1
+                        },
+                        "steering": {
+                            "VBG": 2
+                        },
+                        "Special-day": {
+                            "JJ": 1
+                        },
+                        "to": {
+                            "TO": 11
+                        },
+                        "purpose": {
+                            "NN": 1
+                        },
+                        "Careful": {
+                            "JJ": 1
+                        },
+                        "permanent": {
+                            "JJ": 2
+                        },
+                        "begins": {
+                            "VBZ": 1
+                        },
+                        "-": {
+                            ":": 4
+                        },
+                        "elastic": {
+                            "JJ": 1
+                        },
+                        "nurses": {
+                            "NNS": 1
+                        },
+                        ",": {
+                            ",": 31
+                        },
+                        "various": {
+                            "JJ": 1
+                        },
+                        "these": {
+                            "DT": 1
+                        },
+                        "educational": {
+                            "JJ": 1
+                        },
+                        "NotE.-Do": {
+                            "NN": 1
+                        },
+                        "HEALTH": {
+                            "NN": 2
+                        },
+                        "HOw": {
+                            "NN": 1
+                        },
+                        "doing": {
+                            "VBG": 1
+                        },
+                        "at": {
+                            "IN": 2
+                        },
+                        "1": {
+                            "CD": 1
+                        },
+                        "clinics": {
+                            "NNS": 1
+                        },
+                        "The": {
+                            "NNP": 1,
+                            "DT": 4
+                        },
+                        "consist": {
+                            "VB": 1
+                        },
+                        "difficult": {
+                            "JJ": 1
+                        },
+                        "results": {
+                            "NNS": 1
+                        },
+                        "FIRST": {
+                            "NNP": 1
+                        },
+                        "also": {
+                            "RB": 1
+                        },
+                        "political": {
+                            "JJ": 1
+                        },
+                        "pithy": {
+                            "JJ": 1
+                        },
+                        "churches": {
+                            "NNS": 1
+                        },
+                        "need": {
+                            "MD": 1
+                        },
+                        "delicate": {
+                            "JJ": 1
+                        },
+                        "on": {
+                            "IN": 10
+                        },
+                        "kinds": {
+                            "NNS": 1
+                        },
+                        "finance": {
+                            "NN": 1
+                        },
+                        "postage": {
+                            "NN": 1
+                        },
+                        "being": {
+                            "VBG": 1
+                        },
+                        "composed": {
+                            "VBN": 1
+                        },
+                        "asked": {
+                            "VBN": 1
+                        },
+                        "quantities": {
+                            "NNS": 1
+                        },
+                        "SPIRIT": {
+                            "NNP": 1
+                        },
+                        "'": {
+                            "POS": 1
+                        },
+                        "complete": {
+                            "JJ": 1
+                        },
+                        "b": {
+                            "NN": 1
+                        },
+                        "therefore": {
+                            "RB": 1
+                        },
+                        "take": {
+                            "VB": 2
+                        },
+                        "g": {
+                            "NN": 1
+                        },
+                        "progress": {
+                            "NN": 1
+                        },
+                        "who": {
+                            "WP": 1
+                        },
+                        "1933": {
+                            "CD": 1
+                        },
+                        "SLOGAN": {
+                            "NNP": 1
+                        },
+                        "special-day": {
+                            "JJ": 1
+                        },
+                        "-RRB-": {
+                            "-RRB-": 9
+                        },
+                        "supply": {
+                            "NN": 1
+                        },
+                        "simple": {
+                            "JJ": 1
+                        },
+                        "HERE": {
+                            "RB": 1
+                        },
+                        "1934": {
+                            "CD": 1
+                        },
+                        "official": {
+                            "NN": 1
+                        },
+                        "clinic": {
+                            "NN": 1
+                        },
+                        "should": {
+                            "MD": 12
+                        },
+                        "will": {
+                            "MD": 6
+                        },
+                        "Week": {
+                            "NNP": 3,
+                            "NN": 3
+                        },
+                        "much": {
+                            "RB": 1
+                        },
+                        "their": {
+                            "PRP$": 1
+                        },
+                        "N.N.H.W.": {
+                            "NNP": 1
+                        },
+                        "printed": {
+                            "VBN": 2
+                        },
+                        "AWAY": {
+                            "RB": 1
+                        },
+                        "not": {
+                            "RB": 4
+                        },
+                        "schedule": {
+                            "NN": 1
+                        },
+                        "with": {
+                            "IN": 2
+                        },
+                        "from": {
+                            "IN": 5
+                        },
+                        "early": {
+                            "RB": 1
+                        },
+                        "money": {
+                            "NN": 2
+                        },
+                        "give": {
+                            "VB": 1
+                        },
+                        "pieces": {
+                            "NNS": 1
+                        },
+                        "definite": {
+                            "JJ": 1
+                        },
+                        "materials.-This": {
+                            "NN": 1
+                        },
+                        "both": {
+                            "DT": 1
+                        },
+                        "speakers.-This": {
+                            "NN": 1
+                        },
+                        "details": {
+                            "NNS": 1
+                        },
+                        "charge": {
+                            "NN": 1
+                        },
+                        "conference": {
+                            "NN": 1
+                        },
+                        "report": {
+                            "VB": 4
+                        },
+                        "conducts": {
+                            "VBZ": 1
+                        },
+                        "civic": {
+                            "JJ": 1
+                        },
+                        "It": {
+                            "PRP": 4
+                        },
+                        "file": {
+                            "NN": 1
+                        },
+                        "its": {
+                            "PRP$": 1
+                        },
+                        "PLEASE": {
+                            "NN": 1
+                        },
+                        "shall": {
+                            "MD": 1
+                        },
+                        "subcommittees": {
+                            "NNS": 2
+                        },
+                        "cooperate": {
+                            "VB": 1
+                        },
+                        "speakers": {
+                            "NNS": 4
+                        },
+                        "factories": {
+                            "NNS": 1
+                        },
+                        "be": {
+                            "VB": 11
+                        },
+                        "supplies": {
+                            "NNS": 3
+                        },
+                        "c": {
+                            "NN": 1
+                        },
+                        "large": {
+                            "JJ": 1
+                        },
+                        "records": {
+                            "NNS": 1
+                        },
+                        "IT": {
+                            "PRP": 1
+                        },
+                        "h": {
+                            "NN": 1
+                        },
+                        "matter": {
+                            "NN": 2
+                        },
+                        "time": {
+                            "NN": 2
+                        },
+                        "cooperation": {
+                            "NN": 3
+                        },
+                        "part": {
+                            "NN": 1
+                        },
+                        "kept": {
+                            "VBN": 1
+                        },
+                        "special": {
+                            "JJ": 2
+                        },
+                        "more": {
+                            "JJR": 1
+                        },
+                        "º": {
+                            "NN": 1
+                        },
+                        "7": {
+                            "CD": 1
+                        },
+                        "form": {
+                            "NN": 1
+                        },
+                        "purchase": {
+                            "NN": 1
+                        },
+                        ":": {
+                            ":": 1
+                        },
+                        "Committee": {
+                            "NNP": 3,
+                            "NN": 4
+                        },
+                        "--": {
+                            ":": 6
+                        },
+                        "develop": {
+                            "VB": 1
+                        },
+                        "etc.": {
+                            "FW": 1
+                        },
+                        "well-organized": {
+                            "JJ": 1
+                        },
+                        "VIDEDR": {
+                            "NN": 1
+                        },
+                        "SPECIAL": {
+                            "JJ": 1
+                        },
+                        "many": {
+                            "JJ": 1
+                        },
+                        "organizations": {
+                            "NNS": 1
+                        },
+                        "demobilize": {
+                            "VB": 1
+                        },
+                        "during": {
+                            "IN": 2
+                        },
+                        "AND": {
+                            "CC": 1
+                        },
+                        "very": {
+                            "RB": 2
+                        },
+                        "''": {
+                            "''": 2
+                        },
+                        "important": {
+                            "JJ": 1
+                        },
+                        "weekly": {
+                            "JJ": 1
+                        },
+                        "some": {
+                            "DT": 1
+                        },
+                        "ORGANIZE": {
+                            "NNP": 1
+                        },
+                        "wº": {
+                            "NN": 1
+                        },
+                        "white": {
+                            "JJ": 1
+                        },
+                        "day": {
+                            "NN": 1
+                        },
+                        "including": {
+                            "VBG": 1
+                        },
+                        "places": {
+                            "NNS": 1
+                        },
+                        "possible": {
+                            "JJ": 5
+                        },
+                        "may": {
+                            "MD": 3
+                        },
+                        "like": {
+                            "VB": 1
+                        },
+                        "secure": {
+                            "VB": 1
+                        },
+                        "other": {
+                            "JJ": 3
+                        },
+                        "of": {
+                            "IN": 29
+                        },
+                        "WATERLOO": {
+                            "NNP": 1
+                        },
+                        "and": {
+                            "CC": 18
+                        },
+                        "distance": {
+                            "NN": 1
+                        },
+                        "one": {
+                            "CD": 1
+                        },
+                        "allying": {
+                            "VBG": 1
+                        },
+                        "PRELIMINARY": {
+                            "NNP": 1
+                        },
+                        "located": {
+                            "JJ": 1
+                        },
+                        "days": {
+                            "NNS": 1
+                        },
+                        "PERMANENT": {
+                            "JJ": 1
+                        },
+                        "carry": {
+                            "VB": 1
+                        },
+                        "Movement": {
+                            "NNP": 1
+                        },
+                        "addresses": {
+                            "NNS": 1
+                        },
+                        "the": {
+                            "DT": 26
+                        },
+                        "d": {
+                            "NN": 1
+                        },
+                        "advertising": {
+                            "NN": 1
+                        },
+                        "religious": {
+                            "JJ": 1
+                        }
+                    }
+                },
+                "footer": null,
+                "calculatedLanguage": "en"
+            },
+            {
+                "seq": "00000003",
+                "version": "640372ed271323d141ec86d5b88cd2ba",
+                "tokenCount": 155,
+                "lineCount": 31,
+                "emptyLineCount": 0,
+                "sentenceCount": 3,
+                "header": null,
+                "body": {
+                    "tokenCount": 155,
+                    "lineCount": 31,
+                    "emptyLineCount": 0,
+                    "sentenceCount": 3,
+                    "capAlphaSeq": 7,
+                    "beginCharCount": {
+                        "N": 3,
+                        "T": 2,
+                        "t": 1,
+                        "J": 1,
+                        "U": 3,
+                        "&": 1,
+                        "A": 1,
+                        "a": 1,
+                        "I": 1,
+                        "1": 1,
+                        "V": 1,
+                        "H": 1,
+                        "w": 1,
+                        "R": 2,
+                        "O": 1,
+                        "D": 8,
+                        "S": 2
+                    },
+                    "endCharCount": {
+                        "E": 2,
+                        "e": 7,
+                        "s": 3,
+                        "8": 1,
+                        "4": 2,
+                        "n": 4,
+                        "y": 3,
+                        "T": 1,
+                        "t": 1,
+                        "&": 1,
+                        "l": 1,
+                        "c": 1,
+                        "w": 1,
+                        "k": 2,
+                        "d": 1
+                    },
+                    "tokenPosCount": {
+                        "MonRoe": {
+                            "NNP": 2
+                        },
+                        "34": {
+                            "CD": 1
+                        },
+                        "University": {
+                            "NNP": 1
+                        },
+                        "Chairman": {
+                            "NNP": 2
+                        },
+                        "O.": {
+                            "NNP": 1
+                        },
+                        "8": {
+                            "CD": 1
+                        },
+                        "!!!!": {
+                            ".": 1
+                        },
+                        "Twentieth": {
+                            "NNP": 1
+                        },
+                        "F.": {
+                            "NNP": 1
+                        },
+                        "Negro": {
+                            "NNP": 3
+                        },
+                        "WoRK": {
+                            "NNP": 2
+                        },
+                        "Civic": {
+                            "NNP": 1
+                        },
+                        "In": {
+                            "IN": 1
+                        },
+                        "Rivers": {
+                            "NNP": 1
+                        },
+                        "THE": {
+                            "DT": 1
+                        },
+                        "Secretary": {
+                            "NNP": 2
+                        },
+                        "t": {
+                            "NN": 1
+                        },
+                        "Departments": {
+                            "NNP": 1
+                        },
+                        "ADAMs": {
+                            "NNP": 1
+                        },
+                        "Roscoe": {
+                            "NNP": 1
+                        },
+                        "Various": {
+                            "JJ": 1
+                        },
+                        "Tuskegee": {
+                            "NNP": 1
+                        },
+                        "&": {
+                            "CC": 2
+                        },
+                        "F": {
+                            "NN": 2
+                        },
+                        "BRowN": {
+                            "NNP": 1
+                        },
+                        "Public": {
+                            "NNP": 2
+                        },
+                        "!": {
+                            ".": 1
+                        },
+                        "Howard": {
+                            "NNP": 1
+                        },
+                        "N.": {
+                            "NNP": 2
+                        },
+                        "A": {
+                            "NN": 1
+                        },
+                        "M.": {
+                            "NNP": 1
+                        },
+                        "Bousfield": {
+                            "NNP": 1
+                        },
+                        "Health": {
+                            "NNP": 7
+                        },
+                        "Organizations": {
+                            "NNP": 1
+                        },
+                        "Medical": {
+                            "NNP": 1
+                        },
+                        "Rev.": {
+                            "NNP": 1
+                        },
+                        "TED": {
+                            "NNP": 1
+                        },
+                        "Voluntary": {
+                            "NNP": 1
+                        },
+                        "National": {
+                            "NNP": 4
+                        },
+                        "to": {
+                            "TO": 1
+                        },
+                        "-": {
+                            ":": 1
+                        },
+                        "Service": {
+                            "NNP": 2
+                        },
+                        "NUMA": {
+                            "NNP": 1
+                        },
+                        ",": {
+                            ",": 14
+                        },
+                        "County": {
+                            "NNP": 1
+                        },
+                        "Auspices": {
+                            "NNS": 1
+                        },
+                        "ALGERNoN": {
+                            "NNP": 1
+                        },
+                        "MAURICE": {
+                            "NNP": 1
+                        },
+                        "HEALTH": {
+                            "NNP": 1
+                        },
+                        "1": {
+                            "CD": 1
+                        },
+                        "SERVICE": {
+                            "NNP": 1
+                        },
+                        "UNITED": {
+                            "NNP": 1
+                        },
+                        "TREASURY": {
+                            "NNP": 1
+                        },
+                        "Association": {
+                            "NNP": 2
+                        },
+                        "1934": {
+                            "CD": 2
+                        },
+                        "Cooperation": {
+                            "NN": 1
+                        },
+                        "ED": {
+                            "NNP": 1
+                        },
+                        "Week": {
+                            "NNP": 2
+                        },
+                        "City": {
+                            "NNP": 1
+                        },
+                        "WILLIAMs": {
+                            "NNP": 1
+                        },
+                        "with": {
+                            "IN": 1
+                        },
+                        "Sunday": {
+                            "NNP": 2
+                        },
+                        "R.": {
+                            "NNP": 2
+                        },
+                        "STATES": {
+                            "NNS": 2
+                        },
+                        "fºlk": {
+                            "NN": 1
+                        },
+                        "C": {
+                            "NN": 1
+                        },
+                        "B.": {
+                            "NNP": 1
+                        },
+                        "BARNwell": {
+                            "NNP": 1
+                        },
+                        "G.": {
+                            "NNP": 1
+                        },
+                        "United": {
+                            "NNP": 2
+                        },
+                        "W.": {
+                            "NNP": 1
+                        },
+                        "JAckson": {
+                            "NNP": 1
+                        },
+                        "State": {
+                            "NNP": 1
+                        },
+                        "Moss": {
+                            "NNP": 1
+                        },
+                        "P.": {
+                            "NNP": 1
+                        },
+                        "Insurance": {
+                            "NNP": 1
+                        },
+                        "w": {
+                            "NN": 1
+                        },
+                        "Committee": {
+                            "NNP": 2
+                        },
+                        "Under": {
+                            "IN": 1
+                        },
+                        "JAN": {
+                            "NN": 1
+                        },
+                        "April": {
+                            "NNP": 2
+                        },
+                        "C.": {
+                            "NNP": 2
+                        },
+                        "Institute": {
+                            "NNP": 1
+                        },
+                        "DEFOS": {
+                            "NN": 1
+                        },
+                        "3": {
+                            "CD": 1
+                        },
+                        "''": {
+                            "''": 1
+                        },
+                        "Dr.": {
+                            "NNP": 8
+                        },
+                        "DEPARTMENT": {
+                            "NNP": 1
+                        },
+                        "O": {
+                            "NN": 1
+                        },
+                        "Anniversary": {
+                            "NN": 1
+                        },
+                        "PUBLIC": {
+                            "NNP": 1
+                        },
+                        "States": {
+                            "NNP": 2
+                        },
+                        "of": {
+                            "IN": 1
+                        },
+                        "and": {
+                            "CC": 3
+                        },
+                        "Bowles": {
+                            "NNP": 1
+                        },
+                        ">": {
+                            "JJR": 1
+                        },
+                        "Advisory": {
+                            "NNP": 1
+                        },
+                        "Movement": {
+                            "NNP": 1
+                        },
+                        "the": {
+                            "DT": 3
+                        },
+                        "GEORGE": {
+                            "NNP": 1
+                        }
+                    }
+                },
+                "footer": null,
+                "calculatedLanguage": "en"
+            },
+            {
+                "seq": "00000004",
+                "version": "79e1f57e1bb5847089d9e35496fdd7a9",
+                "tokenCount": 301,
+                "lineCount": 35,
+                "emptyLineCount": 0,
+                "sentenceCount": 16,
+                "header": null,
+                "body": {
+                    "tokenCount": 297,
+                    "lineCount": 34,
+                    "emptyLineCount": 0,
+                    "sentenceCount": 15,
+                    "capAlphaSeq": 4,
+                    "beginCharCount": {
+                        "e": 1,
+                        "s": 1,
+                        "*": 5,
+                        "n": 1,
+                        "N": 1,
+                        "T": 1,
+                        "t": 1,
+                        "a": 3,
+                        "M": 1,
+                        "I": 1,
+                        "i": 1,
+                        "b": 1,
+                        "g": 1,
+                        "P": 2,
+                        "p": 1,
+                        "C": 1,
+                        "H": 3,
+                        "c": 1,
+                        "h": 1,
+                        "r": 1,
+                        "w": 1,
+                        "D": 1,
+                        "S": 3
+                    },
+                    "endCharCount": {
+                        "e": 3,
+                        "s": 1,
+                        "*": 3,
+                        "4": 1,
+                        "n": 1,
+                        ".": 10,
+                        "M": 1,
+                        "-": 2,
+                        "1": 1,
+                        "l": 4,
+                        "2": 1,
+                        "h": 1,
+                        "r": 1,
+                        "3": 1,
+                        "d": 3
+                    },
+                    "tokenPosCount": {
+                        "Talk": {
+                            "NN": 1
+                        },
+                        "used": {
+                            "VBN": 1
+                        },
+                        "reference": {
+                            "NN": 1
+                        },
+                        "homes": {
+                            "NNS": 1
+                        },
+                        "health": {
+                            "NN": 5
+                        },
+                        "mother": {
+                            "NN": 1
+                        },
+                        "for": {
+                            "IN": 5
+                        },
+                        "Churches": {
+                            "NNS": 1
+                        },
+                        "program": {
+                            "NN": 1
+                        },
+                        "organized": {
+                            "VBN": 1
+                        },
+                        "community": {
+                            "NN": 1
+                        },
+                        "bulletin": {
+                            "NN": 1
+                        },
+                        "PROGRAM": {
+                            "NN": 1
+                        },
+                        "DAY-Tuesday": {
+                            "NNP": 1
+                        },
+                        "spread": {
+                            "NN": 1
+                        },
+                        "this": {
+                            "DT": 1
+                        },
+                        "in": {
+                            "IN": 1
+                        },
+                        "slides": {
+                            "NNS": 1
+                        },
+                        "DAY-Sunday": {
+                            "NN": 1
+                        },
+                        "are": {
+                            "VBP": 2
+                        },
+                        "rats": {
+                            "NNS": 1
+                        },
+                        "Personal": {
+                            "NNP": 1
+                        },
+                        "*": {
+                            "SYM": 12
+                        },
+                        "Negro": {
+                            "NNP": 2
+                        },
+                        "CAMPAIGN": {
+                            "NNP": 1
+                        },
+                        "talks": {
+                            "NNS": 1
+                        },
+                        "4": {
+                            "CD": 1
+                        },
+                        "All": {
+                            "DT": 1
+                        },
+                        "given": {
+                            "VBN": 1
+                        },
+                        "Washington": {
+                            "NNP": 1
+                        },
+                        "establishments": {
+                            "NNS": 1
+                        },
+                        "sermons": {
+                            "NNS": 1
+                        },
+                        "accomplishment": {
+                            "NN": 1
+                        },
+                        "This": {
+                            "DT": 1
+                        },
+                        ".": {
+                            ".": 15
+                        },
+                        "agencies": {
+                            "NNS": 2
+                        },
+                        "materials": {
+                            "NNS": 1
+                        },
+                        "Destroy": {
+                            "NN": 1
+                        },
+                        "COMMUNITY": {
+                            "NNP": 1
+                        },
+                        "methods": {
+                            "NNS": 1
+                        },
+                        "DAY-Wednesday": {
+                            "NNP": 1
+                        },
+                        "qualified": {
+                            "VBN": 2
+                        },
+                        "measures": {
+                            "NNS": 1
+                        },
+                        "workers": {
+                            "NNS": 1
+                        },
+                        "campaign": {
+                            "NN": 1
+                        },
+                        "outside": {
+                            "JJ": 1
+                        },
+                        "Y.": {
+                            "NNP": 2
+                        },
+                        "HOME": {
+                            "NNP": 1
+                        },
+                        "persons": {
+                            "NNS": 2
+                        },
+                        "Public": {
+                            "NNP": 1
+                        },
+                        "local": {
+                            "JJ": 1
+                        },
+                        "SANITATION": {
+                            "NNP": 1
+                        },
+                        "information": {
+                            "NN": 3
+                        },
+                        "receive": {
+                            "VB": 1
+                        },
+                        "attention": {
+                            "NN": 1
+                        },
+                        "breeding": {
+                            "NN": 1,
+                            "VBG": 1
+                        },
+                        "as": {
+                            "IN": 1
+                        },
+                        "Health": {
+                            "NNP": 6
+                        },
+                        "flies": {
+                            "NNS": 2
+                        },
+                        "public": {
+                            "JJ": 1
+                        },
+                        "suggestions": {
+                            "NNS": 1
+                        },
+                        "feasible": {
+                            "JJ": 1
+                        },
+                        "they": {
+                            "PRP": 1
+                        },
+                        "doctors": {
+                            "NNS": 2
+                        },
+                        "problems": {
+                            "NNS": 1
+                        },
+                        "National": {
+                            "NNP": 2
+                        },
+                        "social": {
+                            "JJ": 1
+                        },
+                        "DAY-Monday": {
+                            "NN": 1
+                        },
+                        "urge": {
+                            "NN": 1
+                        },
+                        "films": {
+                            "NNS": 1
+                        },
+                        "work": {
+                            "NN": 1
+                        },
+                        "out": {
+                            "IN": 1
+                        },
+                        "contest": {
+                            "NN": 1
+                        },
+                        "to": {
+                            "TO": 6
+                        },
+                        "Service": {
+                            "NNP": 1
+                        },
+                        "nurses": {
+                            "NNS": 1
+                        },
+                        ",": {
+                            ",": 18
+                        },
+                        "bakeries": {
+                            "NNS": 1
+                        },
+                        "home": {
+                            "NN": 1
+                        },
+                        "Social": {
+                            "NNP": 1
+                        },
+                        "poster": {
+                            "NN": 1
+                        },
+                        "visiting": {
+                            "VBG": 1
+                        },
+                        "references": {
+                            "NNS": 2
+                        },
+                        "HEALTH": {
+                            "NN": 1
+                        },
+                        "screened": {
+                            "VBN": 1
+                        },
+                        "1": {
+                            "CD": 1
+                        },
+                        "cover": {
+                            "NN": 1,
+                            "VB": 1
+                        },
+                        "often": {
+                            "RB": 1
+                        },
+                        "markets": {
+                            "NNS": 1
+                        },
+                        "on": {
+                            "IN": 2
+                        },
+                        "Urge": {
+                            "VB": 1
+                        },
+                        "ºr": {
+                            "FW": 2,
+                            "NN": 2
+                        },
+                        "education": {
+                            "NN": 1
+                        },
+                        "Yº": {
+                            "NN": 6
+                        },
+                        "Emphasize": {
+                            "VB": 1
+                        },
+                        "carrying": {
+                            "VBG": 1
+                        },
+                        "supplying": {
+                            "VBG": 1
+                        },
+                        "departments": {
+                            "NNS": 1
+                        },
+                        "infant": {
+                            "NN": 2
+                        },
+                        "opinion": {
+                            "NN": 1
+                        },
+                        "food": {
+                            "NN": 1
+                        },
+                        "disease": {
+                            "NN": 1
+                        },
+                        "focusing": {
+                            "VBG": 1
+                        },
+                        "by": {
+                            "IN": 3
+                        },
+                        "Cooperation": {
+                            "NN": 1
+                        },
+                        "D.C.": {
+                            "NNP": 1
+                        },
+                        "should": {
+                            "MD": 6
+                        },
+                        "Week": {
+                            "NNP": 3
+                        },
+                        "back": {
+                            "NN": 1,
+                            "RB": 1
+                        },
+                        "neglected": {
+                            "VBN": 1
+                        },
+                        "their": {
+                            "PRP$": 1
+                        },
+                        "printed": {
+                            "VBN": 1
+                        },
+                        "reduce": {
+                            "VB": 1
+                        },
+                        "with": {
+                            "IN": 3
+                        },
+                        "MOBILIZATION": {
+                            "NN": 1
+                        },
+                        "mortality": {
+                            "NN": 1
+                        },
+                        "2": {
+                            "CD": 1
+                        },
+                        "influence": {
+                            "NN": 1
+                        },
+                        "factors": {
+                            "NNS": 1
+                        },
+                        "control": {
+                            "NN": 1
+                        },
+                        "Instructions": {
+                            "NNPS": 1
+                        },
+                        "venereal-disease": {
+                            "NN": 1
+                        },
+                        "be": {
+                            "VB": 5
+                        },
+                        "considered": {
+                            "VBN": 1
+                        },
+                        "United": {
+                            "NNP": 1
+                        },
+                        "projects": {
+                            "NNS": 1
+                        },
+                        "meetings": {
+                            "NNS": 1
+                        },
+                        "cooperation": {
+                            "NN": 1
+                        },
+                        "exhibits": {
+                            "VBZ": 1
+                        },
+                        "special": {
+                            "JJ": 4
+                        },
+                        "destroying": {
+                            "VBG": 1
+                        },
+                        "insects": {
+                            "NNS": 1
+                        },
+                        "wherever": {
+                            "WRB": 1
+                        },
+                        ":": {
+                            ":": 1
+                        },
+                        "Committee": {
+                            "NNP": 1
+                        },
+                        "Give": {
+                            "VB": 1
+                        },
+                        "emphasized": {
+                            "VBN": 1
+                        },
+                        "April": {
+                            "NNP": 4
+                        },
+                        "See": {
+                            "VB": 1
+                        },
+                        "SPECIAL": {
+                            "NNP": 1
+                        },
+                        "against": {
+                            "IN": 1
+                        },
+                        "3": {
+                            "CD": 1
+                        },
+                        "Send": {
+                            "VB": 1
+                        },
+                        "requests": {
+                            "NNS": 1
+                        },
+                        "ministers": {
+                            "NNS": 1
+                        },
+                        "demonstrations": {
+                            "NNS": 1
+                        },
+                        "devoted": {
+                            "VBN": 1
+                        },
+                        "day": {
+                            "NN": 1
+                        },
+                        "inside": {
+                            "RB": 1
+                        },
+                        "places": {
+                            "NNS": 2
+                        },
+                        "States": {
+                            "NNP": 1
+                        },
+                        "other": {
+                            "JJ": 3
+                        },
+                        "of": {
+                            "IN": 7
+                        },
+                        "and": {
+                            "CC": 15
+                        },
+                        "high": {
+                            "JJ": 1
+                        },
+                        "welfare": {
+                            "NN": 1
+                        },
+                        "mosquitoes": {
+                            "NNS": 1
+                        },
+                        "hygiene": {
+                            "NN": 2
+                        },
+                        "the": {
+                            "DT": 8
+                        },
+                        "lectures": {
+                            "VBZ": 1
+                        }
+                    }
+                },
+                "footer": {
+                    "tokenCount": 4,
+                    "lineCount": 1,
+                    "emptyLineCount": 0,
+                    "sentenceCount": 1,
+                    "capAlphaSeq": 0,
+                    "beginCharCount": {
+                        "|": 1
+                    },
+                    "endCharCount": {
+                        "|": 1
+                    },
+                    "tokenPosCount": {
+                        "|": {
+                            "SYM": 3
+                        },
+                        "4": {
+                            "CD": 1
+                        }
+                    }
+                },
+                "calculatedLanguage": "en"
+            },
+            {
+                "seq": "00000005",
+                "version": "f23361b51a54941d0d6d9e03ec158ca7",
+                "tokenCount": 356,
+                "lineCount": 35,
+                "emptyLineCount": 0,
+                "sentenceCount": 18,
+                "header": null,
+                "body": {
+                    "tokenCount": 352,
+                    "lineCount": 34,
+                    "emptyLineCount": 0,
+                    "sentenceCount": 17,
+                    "capAlphaSeq": 3,
+                    "beginCharCount": {
+                        "s": 1,
+                        "*": 5,
+                        "T": 1,
+                        "t": 1,
+                        "f": 1,
+                        "A": 1,
+                        "a": 3,
+                        "M": 1,
+                        "I": 1,
+                        "i": 2,
+                        "G": 1,
+                        "b": 1,
+                        "P": 1,
+                        "p": 1,
+                        "C": 2,
+                        "H": 2,
+                        "c": 1,
+                        "(": 1,
+                        "R": 1,
+                        "o": 4,
+                        "S": 1,
+                        "d": 1
+                    },
+                    "endCharCount": {
+                        "e": 1,
+                        "s": 2,
+                        "8": 1,
+                        "*": 1,
+                        ".": 10,
+                        "y": 1,
+                        "t": 2,
+                        "!": 1,
+                        "M": 1,
+                        ")": 1,
+                        "-": 3,
+                        ";": 1,
+                        "6": 1,
+                        "g": 1,
+                        "h": 1,
+                        "7": 1,
+                        "r": 1,
+                        "k": 2,
+                        "d": 2
+                    },
+                    "tokenPosCount": {
+                        "premises": {
+                            "NNS": 2
+                        },
+                        "secretary": {
+                            "NN": 1
+                        },
+                        "birthday": {
+                            "NN": 1
+                        },
+                        "homes": {
+                            "NNS": 1
+                        },
+                        "health": {
+                            "NN": 4
+                        },
+                        "buildings": {
+                            "NNS": 3
+                        },
+                        "chief": {
+                            "JJ": 1
+                        },
+                        "for": {
+                            "IN": 1
+                        },
+                        "follow-up": {
+                            "NN": 1
+                        },
+                        "program": {
+                            "NN": 4
+                        },
+                        "organized": {
+                            "VBN": 1
+                        },
+                        "school": {
+                            "NN": 1
+                        },
+                        "community": {
+                            "NN": 3
+                        },
+                        "Complete": {
+                            "JJ": 1
+                        },
+                        "Apr.": {
+                            "NNP": 1
+                        },
+                        "any": {
+                            "DT": 1
+                        },
+                        "PROGRAM": {
+                            "NN": 1
+                        },
+                        "8": {
+                            "CD": 1
+                        },
+                        "this": {
+                            "DT": 1
+                        },
+                        "death": {
+                            "NN": 1
+                        },
+                        "in": {
+                            "IN": 3
+                        },
+                        "parades": {
+                            "NNS": 1
+                        },
+                        "DAY-Sunday": {
+                            "NN": 1
+                        },
+                        "are": {
+                            "VBP": 3
+                        },
+                        "is": {
+                            "VBZ": 1
+                        },
+                        "founder": {
+                            "NN": 1
+                        },
+                        "*": {
+                            "SYM": 6
+                        },
+                        "Negro": {
+                            "NNP": 1
+                        },
+                        "supervise": {
+                            "VB": 1
+                        },
+                        "4": {
+                            "LS": 1
+                        },
+                        "given": {
+                            "VBN": 1
+                        },
+                        "Washington": {
+                            "NNP": 1
+                        },
+                        "carried": {
+                            "VBN": 1
+                        },
+                        "diseases": {
+                            "NNS": 1
+                        },
+                        "late": {
+                            "JJ": 1
+                        },
+                        "sermons": {
+                            "NNS": 1
+                        },
+                        "requested": {
+                            "VBN": 1
+                        },
+                        "ADULTS": {
+                            "NNP": 1
+                        },
+                        ".": {
+                            ".": 16
+                        },
+                        "agencies": {
+                            "NNS": 1
+                        },
+                        "treatment": {
+                            "NN": 1
+                        },
+                        "causes": {
+                            "NNS": 1
+                        },
+                        "T.": {
+                            "NNP": 1
+                        },
+                        "proper": {
+                            "JJ": 1
+                        },
+                        "diet": {
+                            "NN": 1
+                        },
+                        "Plans": {
+                            "NNS": 1
+                        },
+                        "good": {
+                            "JJ": 1
+                        },
+                        "cheer": {
+                            "NN": 1
+                        },
+                        "suggested": {
+                            "VBN": 1
+                        },
+                        "Y": {
+                            "NN": 1
+                        },
+                        "GENERAL": {
+                            "NNP": 1
+                        },
+                        "all": {
+                            "DT": 1
+                        },
+                        "SCHOOL": {
+                            "NNP": 1
+                        },
+                        "Fresh": {
+                            "JJ": 1
+                        },
+                        "tuberculosis": {
+                            "NN": 1
+                        },
+                        "prepare": {
+                            "VB": 1
+                        },
+                        "parents": {
+                            "NNS": 1
+                        },
+                        "invited": {
+                            "VBN": 1
+                        },
+                        "Y.": {
+                            "NNP": 3
+                        },
+                        "commemoration": {
+                            "NN": 1
+                        },
+                        "score": {
+                            "NN": 1
+                        },
+                        "!": {
+                            ".": 1
+                        },
+                        "newspapers": {
+                            "NNS": 1
+                        },
+                        "School": {
+                            "NNP": 1
+                        },
+                        "centers": {
+                            "NNS": 1
+                        },
+                        "a": {
+                            "DT": 2
+                        },
+                        "Fill": {
+                            "VB": 1
+                        },
+                        "attention": {
+                            "NN": 1
+                        },
+                        "5": {
+                            "LS": 1,
+                            "CD": 2
+                        },
+                        "has": {
+                            "VBZ": 1
+                        },
+                        "regular": {
+                            "JJ": 1
+                        },
+                        "year": {
+                            "NN": 1
+                        },
+                        "FOLLOW-UP": {
+                            "NN": 1
+                        },
+                        "Health": {
+                            "NNP": 5
+                        },
+                        "-LRB-": {
+                            "-LRB-": 8
+                        },
+                        "DAY-Saturday": {
+                            "NN": 1
+                        },
+                        "or": {
+                            "CC": 2
+                        },
+                        "above": {
+                            "JJ": 1
+                        },
+                        "crusades": {
+                            "NNS": 1
+                        },
+                        "doctors": {
+                            "NNS": 1
+                        },
+                        "each": {
+                            "DT": 2
+                        },
+                        "National": {
+                            "NNP": 2
+                        },
+                        "season": {
+                            "NN": 1
+                        },
+                        "Conduct": {
+                            "NNP": 1
+                        },
+                        "last": {
+                            "JJ": 1
+                        },
+                        "committee": {
+                            "NN": 3
+                        },
+                        "work": {
+                            "NN": 1
+                        },
+                        "cards": {
+                            "NNS": 1
+                        },
+                        "programs": {
+                            "NNS": 2
+                        },
+                        "contests": {
+                            "NNS": 1
+                        },
+                        "that": {
+                            "IN": 1,
+                            "DT": 2
+                        },
+                        "out": {
+                            "IN": 1,
+                            "RP": 1
+                        },
+                        "invite": {
+                            "VB": 1
+                        },
+                        "to": {
+                            "TO": 9
+                        },
+                        "direct": {
+                            "JJ": 1
+                        },
+                        "Special": {
+                            "JJ": 1
+                        },
+                        "examinations": {
+                            "NNS": 1
+                        },
+                        "modern": {
+                            "JJ": 1
+                        },
+                        "child": {
+                            "NN": 1
+                        },
+                        "presented": {
+                            "VBN": 1
+                        },
+                        "organic": {
+                            "JJ": 1
+                        },
+                        ",": {
+                            ",": 19
+                        },
+                        "poster": {
+                            "NN": 1
+                        },
+                        ";": {
+                            ":": 6
+                        },
+                        "HEALTH": {
+                            "NNP": 1,
+                            "NN": 1
+                        },
+                        "6": {
+                            "CD": 2
+                        },
+                        "personal": {
+                            "JJ": 1
+                        },
+                        "1": {
+                            "LS": 1
+                        },
+                        "through": {
+                            "IN": 1
+                        },
+                        "been": {
+                            "VBN": 1
+                        },
+                        "The": {
+                            "DT": 1
+                        },
+                        "results": {
+                            "NNS": 2
+                        },
+                        "churches": {
+                            "NNS": 1
+                        },
+                        "on": {
+                            "IN": 2
+                        },
+                        "cancer": {
+                            "NN": 1
+                        },
+                        "ºr": {
+                            "NN": 1
+                        },
+                        "Yº": {
+                            "NN": 10
+                        },
+                        "'": {
+                            "POS": 1
+                        },
+                        "Thursday": {
+                            "NNP": 1
+                        },
+                        "Emphasize": {
+                            "VB": 2
+                        },
+                        "carrying": {
+                            "VBG": 1
+                        },
+                        "exercises": {
+                            "NNS": 1
+                        },
+                        "infant": {
+                            "NN": 1
+                        },
+                        "-RRB-": {
+                            "-RRB-": 8
+                        },
+                        "final": {
+                            "JJ": 1
+                        },
+                        "appropriate": {
+                            "JJ": 1
+                        },
+                        "Some": {
+                            "DT": 1
+                        },
+                        "should": {
+                            "MD": 6
+                        },
+                        "examination": {
+                            "NN": 1
+                        },
+                        "Week": {
+                            "NNP": 3
+                        },
+                        "Supervisory": {
+                            "JJ": 1
+                        },
+                        "sanitary": {
+                            "JJ": 1
+                        },
+                        "preceding": {
+                            "VBG": 2
+                        },
+                        "disability": {
+                            "NN": 1
+                        },
+                        "not": {
+                            "RB": 1
+                        },
+                        "early": {
+                            "JJ": 1
+                        },
+                        "next": {
+                            "JJ": 1
+                        },
+                        "give": {
+                            "VB": 1
+                        },
+                        "supervising": {
+                            "VBG": 1
+                        },
+                        "2": {
+                            "LS": 1
+                        },
+                        "Ministers": {
+                            "NNP": 1
+                        },
+                        "orient": {
+                            "VB": 1
+                        },
+                        "Explain": {
+                            "VB": 1
+                        },
+                        "copy": {
+                            "NN": 1
+                        },
+                        "year-round": {
+                            "JJ": 1
+                        },
+                        "kidney": {
+                            "NN": 1
+                        },
+                        "report": {
+                            "NN": 2
+                        },
+                        "It": {
+                            "PRP": 1
+                        },
+                        "its": {
+                            "PRP$": 1
+                        },
+                        "which": {
+                            "WDT": 1
+                        },
+                        "Booker": {
+                            "NNP": 1
+                        },
+                        "cooperating": {
+                            "VBG": 1
+                        },
+                        "air": {
+                            "NN": 1
+                        },
+                        "be": {
+                            "VB": 6
+                        },
+                        "clean-up": {
+                            "JJ": 1
+                        },
+                        "REPORT": {
+                            "NNP": 1
+                        },
+                        "part": {
+                            "NN": 2
+                        },
+                        "heart": {
+                            "NN": 1
+                        },
+                        "7": {
+                            "CD": 1
+                        },
+                        "CLEAN-UP": {
+                            "NN": 1
+                        },
+                        ":": {
+                            ":": 1
+                        },
+                        "Committee": {
+                            "NNP": 1
+                        },
+                        "April": {
+                            "NNP": 4
+                        },
+                        "DAY-Thursday": {
+                            "NN": 1
+                        },
+                        "etc.": {
+                            "FW": 2
+                        },
+                        "started": {
+                            "VBN": 1
+                        },
+                        "organizations": {
+                            "NNS": 1
+                        },
+                        "3": {
+                            "LS": 1
+                        },
+                        "made": {
+                            "VBN": 1
+                        },
+                        "during": {
+                            "IN": 1
+                        },
+                        "AND": {
+                            "CC": 1
+                        },
+                        "lecture": {
+                            "VB": 1
+                        },
+                        "devoted": {
+                            "VBN": 1
+                        },
+                        "cleaning": {
+                            "NN": 1
+                        },
+                        "day": {
+                            "NN": 3
+                        },
+                        "of": {
+                            "IN": 13
+                        },
+                        "summary": {
+                            "NN": 1
+                        },
+                        "and": {
+                            "CC": 10
+                        },
+                        "cleanliness": {
+                            "NN": 1
+                        },
+                        "right": {
+                            "JJ": 1
+                        },
+                        "days": {
+                            "NNS": 1
+                        },
+                        "welfare": {
+                            "NN": 1
+                        },
+                        "living": {
+                            "NN": 1
+                        },
+                        "DAY-Friday": {
+                            "NNP": 1
+                        },
+                        "the": {
+                            "DT": 13
+                        },
+                        "send": {
+                            "VB": 1
+                        }
+                    }
+                },
+                "footer": {
+                    "tokenCount": 4,
+                    "lineCount": 1,
+                    "emptyLineCount": 0,
+                    "sentenceCount": 1,
+                    "capAlphaSeq": 0,
+                    "beginCharCount": {
+                        "|": 1
+                    },
+                    "endCharCount": {
+                        "|": 1
+                    },
+                    "tokenPosCount": {
+                        "5": {
+                            "CD": 1
+                        },
+                        "|": {
+                            "SYM": 3
+                        }
+                    }
+                },
+                "calculatedLanguage": "en"
+            },
+            {
+                "seq": "00000006",
+                "version": "6261d35703c25bbcadf469fc6a790a09",
+                "tokenCount": 734,
+                "lineCount": 57,
+                "emptyLineCount": 0,
+                "sentenceCount": 17,
+                "header": null,
+                "body": {
+                    "tokenCount": 730,
+                    "lineCount": 56,
+                    "emptyLineCount": 0,
+                    "sentenceCount": 16,
+                    "capAlphaSeq": 3,
+                    "beginCharCount": {
+                        "e": 2,
+                        "s": 2,
+                        "N": 6,
+                        "T": 3,
+                        "t": 6,
+                        "u": 1,
+                        "f": 1,
+                        "A": 2,
+                        "a": 2,
+                        "m": 1,
+                        "I": 3,
+                        "i": 1,
+                        "v": 1,
+                        "1": 1,
+                        "L": 1,
+                        "b": 2,
+                        "g": 1,
+                        "B": 1,
+                        "p": 1,
+                        "H": 1,
+                        "c": 4,
+                        "W": 1,
+                        "h": 3,
+                        "w": 4,
+                        "k": 1,
+                        "O": 1,
+                        "o": 1,
+                        "S": 1,
+                        "d": 1
+                    },
+                    "endCharCount": {
+                        "e": 8,
+                        "s": 4,
+                        "n": 3,
+                        ".": 8,
+                        "y": 3,
+                        "5": 1,
+                        "-": 8,
+                        ",": 2,
+                        ";": 1,
+                        "L": 1,
+                        "g": 1,
+                        "l": 1,
+                        "h": 2,
+                        "r": 5,
+                        "K": 1,
+                        ":": 1,
+                        "o": 2,
+                        "d": 4
+                    },
+                    "tokenPosCount": {
+                        "45": {
+                            "CD": 2
+                        },
+                        "associations": {
+                            "NNS": 2
+                        },
+                        "reference": {
+                            "NN": 1
+                        },
+                        "At": {
+                            "IN": 1
+                        },
+                        "Improvement": {
+                            "NNP": 1
+                        },
+                        "health": {
+                            "NN": 8
+                        },
+                        "interesting": {
+                            "JJ": 2
+                        },
+                        "NATIONAL": {
+                            "NNP": 1
+                        },
+                        "secret": {
+                            "JJ": 1
+                        },
+                        "number": {
+                            "NN": 1
+                        },
+                        "for": {
+                            "IN": 5
+                        },
+                        "organization": {
+                            "NN": 1
+                        },
+                        "I.": {
+                            "NNP": 1
+                        },
+                        "``": {
+                            "``": 3
+                        },
+                        "schools": {
+                            "NNS": 1
+                        },
+                        "conditions": {
+                            "NNS": 2
+                        },
+                        "people": {
+                            "NNS": 6
+                        },
+                        "proposed": {
+                            "VBN": 1
+                        },
+                        "southern": {
+                            "JJ": 1
+                        },
+                        "Frederick": {
+                            "NNP": 1
+                        },
+                        "this": {
+                            "DT": 2
+                        },
+                        "death": {
+                            "NN": 1
+                        },
+                        "in": {
+                            "IN": 14
+                        },
+                        "Schools": {
+                            "NNP": 1
+                        },
+                        "V.": {
+                            "NNP": 1
+                        },
+                        "have": {
+                            "VBP": 1
+                        },
+                        "are": {
+                            "VBP": 3
+                        },
+                        "is": {
+                            "VBZ": 3
+                        },
+                        "100,000,000": {
+                            "CD": 1
+                        },
+                        "Wilberforce": {
+                            "NNP": 1
+                        },
+                        "officers": {
+                            "NNS": 1
+                        },
+                        "companies": {
+                            "NNS": 1
+                        },
+                        "demonstration": {
+                            "NN": 1
+                        },
+                        "among": {
+                            "IN": 4
+                        },
+                        "Drs.": {
+                            "NNP": 1
+                        },
+                        "president": {
+                            "NN": 1
+                        },
+                        "Negro": {
+                            "NNP": 13
+                        },
+                        "Savannah": {
+                            "NNP": 1
+                        },
+                        "influenced": {
+                            "VBN": 1
+                        },
+                        "said": {
+                            "VBD": 1
+                        },
+                        "Colored": {
+                            "NNP": 3
+                        },
+                        "cies": {
+                            "NNS": 1
+                        },
+                        "twentieth": {
+                            "JJ": 1
+                        },
+                        "Washington": {
+                            "NNP": 4
+                        },
+                        "They": {
+                            "PRP": 1
+                        },
+                        "real": {
+                            "JJ": 1
+                        },
+                        "carried": {
+                            "VBN": 1
+                        },
+                        "research": {
+                            "NN": 1
+                        },
+                        "heads": {
+                            "NNS": 1
+                        },
+                        "Nurses": {
+                            "NNPS": 1
+                        },
+                        "late": {
+                            "JJ": 1
+                        },
+                        "field": {
+                            "NN": 1
+                        },
+                        "extent": {
+                            "NN": 1
+                        },
+                        "join": {
+                            "VB": 1
+                        },
+                        "thought": {
+                            "VBN": 1
+                        },
+                        "throughout": {
+                            "IN": 1
+                        },
+                        "This": {
+                            "DT": 1
+                        },
+                        ".": {
+                            ".": 15
+                        },
+                        "In": {
+                            "IN": 1
+                        },
+                        "but": {
+                            "CC": 2
+                        },
+                        "11": {
+                            "CD": 1
+                        },
+                        "Louis": {
+                            "NNP": 1
+                        },
+                        "Women": {
+                            "NNP": 1
+                        },
+                        "insurance": {
+                            "NN": 1
+                        },
+                        "agencies": {
+                            "NNS": 2
+                        },
+                        "sensed": {
+                            "VBD": 1
+                        },
+                        "what": {
+                            "WP": 2
+                        },
+                        "would": {
+                            "MD": 1
+                        },
+                        "deaths": {
+                            "NNS": 2
+                        },
+                        "T.": {
+                            "NNP": 2
+                        },
+                        "aid": {
+                            "VB": 1
+                        },
+                        "THE": {
+                            "DT": 1
+                        },
+                        "background": {
+                            "NN": 1
+                        },
+                        "annual": {
+                            "JJ": 2
+                        },
+                        "problem": {
+                            "NN": 1
+                        },
+                        "optimism": {
+                            "NN": 1
+                        },
+                        "so": {
+                            "RB": 1
+                        },
+                        "our": {
+                            "PRP$": 1
+                        },
+                        "do": {
+                            "VB": 1
+                        },
+                        "short": {
+                            "JJ": 1
+                        },
+                        "friend": {
+                            "NN": 1
+                        },
+                        "all": {
+                            "PDT": 2,
+                            "DT": 2
+                        },
+                        "illness": {
+                            "NN": 1
+                        },
+                        "denominations": {
+                            "NNS": 1
+                        },
+                        "Maj.": {
+                            "NNP": 1
+                        },
+                        "facts": {
+                            "NNS": 2
+                        },
+                        "birth": {
+                            "NN": 1
+                        },
+                        "widespread": {
+                            "JJ": 1
+                        },
+                        "Men": {
+                            "NN": 1
+                        },
+                        "ready": {
+                            "JJ": 1
+                        },
+                        "A.": {
+                            "NNP": 2
+                        },
+                        "inclusive": {
+                            "JJ": 1
+                        },
+                        "Tuskegee": {
+                            "NNP": 1
+                        },
+                        "Negroes": {
+                            "NNS": 4
+                        },
+                        "Ga.": {
+                            "NNP": 1
+                        },
+                        "possibilities": {
+                            "NNS": 1
+                        },
+                        "us": {
+                            "PRP": 1
+                        },
+                        "Nation": {
+                            "NN": 1
+                        },
+                        "it": {
+                            "PRP": 1
+                        },
+                        "Public": {
+                            "NNP": 1
+                        },
+                        "efforts": {
+                            "NNS": 1
+                        },
+                        "nineteenth": {
+                            "JJ": 1
+                        },
+                        "N.": {
+                            "NNP": 1
+                        },
+                        "commandant": {
+                            "NN": 1
+                        },
+                        "local": {
+                            "JJ": 2
+                        },
+                        "M.": {
+                            "NNP": 1
+                        },
+                        "a": {
+                            "DT": 6
+                        },
+                        "betterhealth": {
+                            "NN": 1
+                        },
+                        "became": {
+                            "VBD": 1
+                        },
+                        "century": {
+                            "NN": 2
+                        },
+                        "colored": {
+                            "VBN": 7
+                        },
+                        "earlier": {
+                            "JJR": 1
+                        },
+                        "WHY": {
+                            "WRB": 1
+                        },
+                        "as": {
+                            "IN": 2
+                        },
+                        "Hoffman": {
+                            "NNP": 1
+                        },
+                        "Dublin": {
+                            "NNP": 1
+                        },
+                        "appreciated": {
+                            "VBD": 1
+                        },
+                        "fertile": {
+                            "JJ": 1
+                        },
+                        "year": {
+                            "NN": 1
+                        },
+                        "Included": {
+                            "VBN": 1
+                        },
+                        "Health": {
+                            "NNP": 7
+                        },
+                        "adoption": {
+                            "NN": 1
+                        },
+                        "advisable": {
+                            "JJ": 1
+                        },
+                        "75,000,000": {
+                            "CD": 1
+                        },
+                        "appeal": {
+                            "NN": 1
+                        },
+                        "told": {
+                            "VBN": 1
+                        },
+                        "Brown": {
+                            "NNP": 1
+                        },
+                        "men": {
+                            "NNS": 1
+                        },
+                        "contain": {
+                            "VB": 1
+                        },
+                        "country": {
+                            "NN": 2
+                        },
+                        "Medical": {
+                            "NNP": 2
+                        },
+                        "looking": {
+                            "VBG": 1
+                        },
+                        "'s": {
+                            "POS": 2
+                        },
+                        "OF": {
+                            "IN": 1
+                        },
+                        "such": {
+                            "JJ": 1
+                        },
+                        "they": {
+                            "PRP": 1
+                        },
+                        "following": {
+                            "VBG": 1
+                        },
+                        "National": {
+                            "NNP": 12
+                        },
+                        "last": {
+                            "JJ": 1
+                        },
+                        "gospel": {
+                            "NN": 1
+                        },
+                        "I": {
+                            "PRP": 1
+                        },
+                        "Hampton": {
+                            "NNP": 1
+                        },
+                        "work": {
+                            "NN": 2
+                        },
+                        "volumes": {
+                            "NNS": 1
+                        },
+                        "that": {
+                            "IN": 5,
+                            "DT": 1
+                        },
+                        "out": {
+                            "RP": 2
+                        },
+                        "L.": {
+                            "NNP": 1
+                        },
+                        "amount": {
+                            "NN": 1
+                        },
+                        "frankly": {
+                            "RB": 1
+                        },
+                        "attitude": {
+                            "NN": 1
+                        },
+                        "sending": {
+                            "VBG": 1
+                        },
+                        "hear": {
+                            "VB": 1
+                        },
+                        "sickness": {
+                            "NN": 2
+                        },
+                        "to": {
+                            "TO": 17
+                        },
+                        "Virginia": {
+                            "NNP": 1
+                        },
+                        "decreased": {
+                            "VBN": 1
+                        },
+                        "now": {
+                            "RB": 1
+                        },
+                        "-": {
+                            ":": 1
+                        },
+                        "county": {
+                            "NN": 1
+                        },
+                        "Service": {
+                            "NNP": 1
+                        },
+                        "startling": {
+                            "JJ": 1
+                        },
+                        ",": {
+                            ",": 38
+                        },
+                        "face": {
+                            "VB": 1
+                        },
+                        "greatly": {
+                            "RB": 1
+                        },
+                        "Work": {
+                            "NNP": 1
+                        },
+                        "most": {
+                            "JJS": 1
+                        },
+                        "these": {
+                            "DT": 2
+                        },
+                        ";": {
+                            ":": 22
+                        },
+                        "was": {
+                            "VBD": 4
+                        },
+                        "Urban": {
+                            "NNP": 1
+                        },
+                        "guidance": {
+                            "NN": 1
+                        },
+                        "educational": {
+                            "JJ": 1
+                        },
+                        "there": {
+                            "EX": 1
+                        },
+                        "change": {
+                            "NN": 1
+                        },
+                        "HEALTH": {
+                            "NNP": 1
+                        },
+                        "1895": {
+                            "CD": 1
+                        },
+                        "farmers": {
+                            "NNS": 1
+                        },
+                        "All-American": {
+                            "NNP": 1
+                        },
+                        "at": {
+                            "IN": 2
+                        },
+                        "seriously": {
+                            "RB": 1
+                        },
+                        "contemporaries": {
+                            "NNS": 1
+                        },
+                        "The": {
+                            "DT": 3
+                        },
+                        "offers": {
+                            "VBZ": 1
+                        },
+                        "over": {
+                            "IN": 1
+                        },
+                        "WHAT": {
+                            "WDT": 1
+                        },
+                        "churches": {
+                            "NNS": 1
+                        },
+                        "can": {
+                            "MD": 5
+                        },
+                        "on": {
+                            "IN": 2
+                        },
+                        "17": {
+                            "CD": 1
+                        },
+                        "shown": {
+                            "VBN": 1
+                        },
+                        "'": {
+                            "POS": 1
+                        },
+                        "pessimism": {
+                            "NN": 1
+                        },
+                        "actively": {
+                            "RB": 1
+                        },
+                        "interest": {
+                            "NN": 1
+                        },
+                        "14": {
+                            "CD": 1
+                        },
+                        "Association": {
+                            "NNP": 6
+                        },
+                        "cost": {
+                            "NN": 2
+                        },
+                        "Dowling": {
+                            "NNP": 1
+                        },
+                        "taught": {
+                            "VBN": 1
+                        },
+                        "Orleans": {
+                            "NNP": 1
+                        },
+                        "Graduate": {
+                            "NNP": 1
+                        },
+                        "reached": {
+                            "VBN": 1
+                        },
+                        "Among": {
+                            "IN": 1
+                        },
+                        "Society": {
+                            "NNP": 1
+                        },
+                        "them": {
+                            "PRP": 1
+                        },
+                        "fill": {
+                            "VB": 1
+                        },
+                        "by": {
+                            "IN": 1
+                        },
+                        "father": {
+                            "NN": 1
+                        },
+                        "La.": {
+                            "NNP": 1
+                        },
+                        "then": {
+                            "RB": 1
+                        },
+                        "1934": {
+                            "CD": 1
+                        },
+                        "headquarters": {
+                            "NN": 1
+                        },
+                        "official": {
+                            "JJ": 1
+                        },
+                        "improve": {
+                            "VB": 1
+                        },
+                        "WEEK": {
+                            "NNP": 1
+                        },
+                        "should": {
+                            "MD": 1
+                        },
+                        "story": {
+                            "NN": 1
+                        },
+                        "Week": {
+                            "NNP": 4,
+                            "NN": 2
+                        },
+                        "while": {
+                            "IN": 2
+                        },
+                        "Conditions": {
+                            "NNPS": 1
+                        },
+                        "their": {
+                            "PRP$": 2
+                        },
+                        "not": {
+                            "RB": 2
+                        },
+                        "with": {
+                            "IN": 1
+                        },
+                        "from": {
+                            "IN": 1
+                        },
+                        "bishops": {
+                            "NNS": 1
+                        },
+                        "means": {
+                            "NNS": 1
+                        },
+                        "?": {
+                            ".": 1
+                        },
+                        "survive": {
+                            "VB": 1
+                        },
+                        "contribution": {
+                            "NN": 1
+                        },
+                        "Sunday": {
+                            "NNP": 1
+                        },
+                        "R.": {
+                            "NNP": 2
+                        },
+                        "1915": {
+                            "CD": 3
+                        },
+                        "1905": {
+                            "CD": 1
+                        },
+                        "first": {
+                            "JJ": 1
+                        },
+                        "Roman": {
+                            "NNP": 1
+                        },
+                        "initiated": {
+                            "VBN": 1
+                        },
+                        "session": {
+                            "NN": 1
+                        },
+                        "Teachers": {
+                            "NNPS": 1
+                        },
+                        "both": {
+                            "DT": 1
+                        },
+                        "Business": {
+                            "NNP": 1
+                        },
+                        "could": {
+                            "MD": 1
+                        },
+                        "put": {
+                            "VB": 1
+                        },
+                        "rather": {
+                            "RB": 1
+                        },
+                        "medical": {
+                            "JJ": 1
+                        },
+                        "thus": {
+                            "RB": 1
+                        },
+                        "members": {
+                            "NNS": 1
+                        },
+                        "Annual": {
+                            "JJ": 1
+                        },
+                        "whole": {
+                            "JJ": 1
+                        },
+                        "It": {
+                            "PRP": 3
+                        },
+                        "its": {
+                            "PRP$": 2
+                        },
+                        "under": {
+                            "IN": 2
+                        },
+                        "which": {
+                            "WDT": 4
+                        },
+                        "shall": {
+                            "MD": 1
+                        },
+                        "Booker": {
+                            "NNP": 2
+                        },
+                        "percent": {
+                            "NN": 1
+                        },
+                        "cooperate": {
+                            "VB": 1,
+                            "VBP": 1
+                        },
+                        "constructive": {
+                            "JJ": 1
+                        },
+                        "an": {
+                            "DT": 2
+                        },
+                        "concerning": {
+                            "VBG": 1
+                        },
+                        "brought": {
+                            "VBN": 1
+                        },
+                        "ill": {
+                            "RB": 1
+                        },
+                        "be": {
+                            "VB": 6
+                        },
+                        "meet": {
+                            "VB": 1
+                        },
+                        "movement": {
+                            "NN": 4
+                        },
+                        "large": {
+                            "JJ": 1
+                        },
+                        "conferences": {
+                            "NNS": 2
+                        },
+                        "into": {
+                            "IN": 1
+                        },
+                        "champion": {
+                            "NN": 1
+                        },
+                        "where": {
+                            "WRB": 1
+                        },
+                        "United": {
+                            "NNP": 2
+                        },
+                        "church": {
+                            "NN": 1
+                        },
+                        "resided": {
+                            "VBD": 1
+                        },
+                        "Clubs": {
+                            "NNS": 1
+                        },
+                        "time": {
+                            "NN": 1
+                        },
+                        "were": {
+                            "VBD": 3
+                        },
+                        "part": {
+                            "NN": 2
+                        },
+                        "Organization": {
+                            "NNP": 1
+                        },
+                        "By": {
+                            "IN": 1
+                        },
+                        "pioneer": {
+                            "NN": 1
+                        },
+                        "ask": {
+                            "VB": 2
+                        },
+                        "latter": {
+                            "JJ": 1
+                        },
+                        "New": {
+                            "NNP": 1
+                        },
+                        "annually": {
+                            "RB": 2
+                        },
+                        "directly": {
+                            "RB": 1
+                        },
+                        "State": {
+                            "NNP": 2
+                        },
+                        "Oscar": {
+                            "NNP": 1
+                        },
+                        ":": {
+                            ":": 2
+                        },
+                        "Because": {
+                            "IN": 1
+                        },
+                        "--": {
+                            ":": 1
+                        },
+                        "April": {
+                            "NNP": 2
+                        },
+                        "includes": {
+                            "VBZ": 1
+                        },
+                        "American": {
+                            "JJ": 2
+                        },
+                        "C.": {
+                            "NNP": 1
+                        },
+                        "Institute": {
+                            "NNP": 1
+                        },
+                        "many": {
+                            "JJ": 2
+                        },
+                        "organizations": {
+                            "NNS": 5
+                        },
+                        "$": {
+                            "$": 2
+                        },
+                        "call": {
+                            "NN": 3
+                        },
+                        "made": {
+                            "VBN": 1
+                        },
+                        "AND": {
+                            "CC": 1
+                        },
+                        "very": {
+                            "RB": 1
+                        },
+                        "''": {
+                            "''": 3
+                        },
+                        "Monroe": {
+                            "NNP": 1
+                        },
+                        "Dr.": {
+                            "NNP": 6
+                        },
+                        "preventable": {
+                            "JJ": 1
+                        },
+                        "lessened": {
+                            "VBN": 1
+                        },
+                        "agen": {
+                            "NN": 1
+                        },
+                        "some": {
+                            "DT": 1
+                        },
+                        "white": {
+                            "JJ": 1
+                        },
+                        "conservation": {
+                            "NN": 1
+                        },
+                        "known": {
+                            "VBN": 1
+                        },
+                        "Moton": {
+                            "NNP": 1
+                        },
+                        "controversies": {
+                            "NNS": 1
+                        },
+                        "Thus": {
+                            "RB": 1
+                        },
+                        "practice": {
+                            "NN": 1
+                        },
+                        "NEGRO": {
+                            "NNP": 1
+                        },
+                        "1914": {
+                            "CD": 1
+                        },
+                        "States": {
+                            "NNP": 1,
+                            "NNPS": 1
+                        },
+                        "other": {
+                            "JJ": 3
+                        },
+                        "of": {
+                            "IN": 39
+                        },
+                        "improving": {
+                            "VBG": 1
+                        },
+                        "and": {
+                            "CC": 22
+                        },
+                        "record": {
+                            "NN": 1
+                        },
+                        "Conference": {
+                            "NNP": 1
+                        },
+                        "450,000": {
+                            "CD": 1
+                        },
+                        "Club": {
+                            "NNP": 1
+                        },
+                        "leadership": {
+                            "NN": 1
+                        },
+                        "League": {
+                            "NNP": 2
+                        },
+                        "piece": {
+                            "NN": 1
+                        },
+                        "Press": {
+                            "NNP": 1
+                        },
+                        "Williams": {
+                            "NNP": 1
+                        },
+                        "active": {
+                            "JJ": 1
+                        },
+                        "the": {
+                            "DT": 56
+                        },
+                        "capacity": {
+                            "NN": 1
+                        },
+                        "religious": {
+                            "JJ": 1
+                        }
+                    }
+                },
+                "footer": {
+                    "tokenCount": 4,
+                    "lineCount": 1,
+                    "emptyLineCount": 0,
+                    "sentenceCount": 1,
+                    "capAlphaSeq": 0,
+                    "beginCharCount": {
+                        "|": 1
+                    },
+                    "endCharCount": {
+                        "|": 1
+                    },
+                    "tokenPosCount": {
+                        "|": {
+                            "SYM": 3
+                        },
+                        "6": {
+                            "CD": 1
+                        }
+                    }
+                },
+                "calculatedLanguage": "en"
+            },
+            {
+                "seq": "00000007",
+                "version": "0b1fbfa407d9dbd97c5588163c191355",
+                "tokenCount": 736,
+                "lineCount": 109,
+                "emptyLineCount": 3,
+                "sentenceCount": 46,
+                "header": null,
+                "body": {
+                    "tokenCount": 736,
+                    "lineCount": 109,
+                    "emptyLineCount": 3,
+                    "sentenceCount": 46,
+                    "capAlphaSeq": 6,
+                    "beginCharCount": {
+                        "E": 3,
+                        "s": 1,
+                        "4": 1,
+                        "N": 30,
+                        "y": 1,
+                        "T": 6,
+                        "Y": 1,
+                        "t": 2,
+                        "J": 1,
+                        "U": 1,
+                        "F": 5,
+                        "A": 20,
+                        "M": 2,
+                        "I": 2,
+                        "i": 1,
+                        "1": 1,
+                        "L": 1,
+                        "B": 1,
+                        "P": 1,
+                        "p": 1,
+                        "2": 1,
+                        "C": 4,
+                        "H": 3,
+                        "c": 1,
+                        "W": 2,
+                        "R": 2,
+                        "O": 2,
+                        "D": 1,
+                        "S": 8
+                    },
+                    "endCharCount": {
+                        "E": 3,
+                        "e": 1,
+                        "s": 2,
+                        "4": 1,
+                        "n": 3,
+                        ".": 49,
+                        "N": 3,
+                        "t": 1,
+                        "f": 1,
+                        "5": 2,
+                        ")": 1,
+                        "-": 8,
+                        ",": 12,
+                        "1": 1,
+                        "L": 1,
+                        "0": 2,
+                        "H": 2,
+                        "h": 5,
+                        "r": 1,
+                        "w": 1,
+                        "3": 1,
+                        "k": 1,
+                        "D": 2,
+                        "d": 2
+                    },
+                    "tokenPosCount": {
+                        "FIRST-FRIZE": {
+                            "NNP": 1
+                        },
+                        "associations": {
+                            "NNS": 1
+                        },
+                        "lists": {
+                            "NNS": 1
+                        },
+                        "LEAGUE": {
+                            "NNP": 2
+                        },
+                        "Brownsville": {
+                            "NNP": 1
+                        },
+                        "DAIRY": {
+                            "NNP": 1
+                        },
+                        "NATIONAL": {
+                            "NNP": 19
+                        },
+                        "for": {
+                            "IN": 2
+                        },
+                        "CIRcle": {
+                            "NN": 1
+                        },
+                        "program": {
+                            "NN": 1
+                        },
+                        "Wom": {
+                            "NNP": 1
+                        },
+                        "SERVIce": {
+                            "NNP": 1
+                        },
+                        "Richmond": {
+                            "NNP": 1
+                        },
+                        "Atlanta": {
+                            "NNP": 2
+                        },
+                        "Cooper": {
+                            "NNP": 1
+                        },
+                        "city": {
+                            "NN": 1
+                        },
+                        "Ess": {
+                            "NNP": 1
+                        },
+                        "NURSEs": {
+                            "NNS": 1
+                        },
+                        "Broad": {
+                            "NNP": 1
+                        },
+                        "Follow": {
+                            "VB": 1
+                        },
+                        "Department": {
+                            "NNP": 1
+                        },
+                        "For": {
+                            "IN": 4
+                        },
+                        "Commission": {
+                            "NNP": 1
+                        },
+                        "your": {
+                            "PRP$": 2
+                        },
+                        "are": {
+                            "VBP": 2
+                        },
+                        "How": {
+                            "WRB": 1
+                        },
+                        "South": {
+                            "NNP": 3
+                        },
+                        "Negro": {
+                            "NNP": 1
+                        },
+                        "INsurANce": {
+                            "NNP": 2
+                        },
+                        "CAMPAIGN": {
+                            "NNP": 1
+                        },
+                        "2201": {
+                            "CD": 1
+                        },
+                        "HAMPton": {
+                            "NNP": 1
+                        },
+                        "Colored": {
+                            "NNP": 1
+                        },
+                        "All": {
+                            "NNP": 1
+                        },
+                        "450": {
+                            "CD": 11
+                        },
+                        "Washington": {
+                            "NNP": 9
+                        },
+                        "EN": {
+                            "NNP": 1
+                        },
+                        "CHR1st": {
+                            "NN": 1
+                        },
+                        "Civic": {
+                            "NNP": 1
+                        },
+                        "GRADUATE": {
+                            "NNP": 1
+                        },
+                        "requested": {
+                            "VBN": 1
+                        },
+                        ".": {
+                            ".": 45
+                        },
+                        "TRANSFORMATION": {
+                            "NN": 1
+                        },
+                        "agencies": {
+                            "NNS": 1
+                        },
+                        "TUBER": {
+                            "NNP": 1
+                        },
+                        "culosis": {
+                            "VBZ": 1
+                        },
+                        "AMERICAN": {
+                            "NNP": 7
+                        },
+                        "what": {
+                            "WP": 1
+                        },
+                        "CHILD": {
+                            "NNP": 1
+                        },
+                        "WELFARE": {
+                            "NNP": 1
+                        },
+                        "T.": {
+                            "NNP": 1
+                        },
+                        "Y.M.C.A.": {
+                            "NNP": 1
+                        },
+                        "THE": {
+                            "DT": 5
+                        },
+                        "Seventh": {
+                            "NNP": 11
+                        },
+                        "T": {
+                            "NN": 1
+                        },
+                        "ANNA": {
+                            "NNP": 1
+                        },
+                        "Lexington": {
+                            "NNP": 1
+                        },
+                        "FEDERAL": {
+                            "NNP": 1
+                        },
+                        "466": {
+                            "CD": 1
+                        },
+                        "up": {
+                            "RP": 1
+                        },
+                        "Streets": {
+                            "NNPS": 1
+                        },
+                        "SUGGESTED": {
+                            "VBD": 1
+                        },
+                        "acknowledgment": {
+                            "NN": 1
+                        },
+                        "Make": {
+                            "VB": 1
+                        },
+                        "East": {
+                            "NNP": 4
+                        },
+                        "SCHOOL": {
+                            "NN": 1
+                        },
+                        "Durham": {
+                            "NNP": 1
+                        },
+                        "Hospital": {
+                            "NNP": 1
+                        },
+                        "tuberculosis": {
+                            "NN": 1
+                        },
+                        "PAINT-UP": {
+                            "NN": 1
+                        },
+                        "Twenty-second": {
+                            "NNP": 1
+                        },
+                        "PREvention": {
+                            "NN": 1
+                        },
+                        "Standard": {
+                            "NNP": 1
+                        },
+                        "61": {
+                            "CD": 1
+                        },
+                        "SOURCES": {
+                            "NNS": 1
+                        },
+                        "YARD": {
+                            "NNP": 1
+                        },
+                        "Tuskegee": {
+                            "NNP": 1
+                        },
+                        "FIRST-PRIZE": {
+                            "NNP": 1
+                        },
+                        "ContRol": {
+                            "NN": 1
+                        },
+                        "HOME": {
+                            "NNP": 1
+                        },
+                        "Ga.": {
+                            "NNP": 2
+                        },
+                        "PREss": {
+                            "NNP": 1
+                        },
+                        "Public": {
+                            "NNP": 2
+                        },
+                        "Division": {
+                            "NNP": 1
+                        },
+                        "School": {
+                            "NNP": 1
+                        },
+                        "local": {
+                            "JJ": 2
+                        },
+                        "A": {
+                            "DT": 1
+                        },
+                        "DENTAL": {
+                            "NNP": 2
+                        },
+                        "Pa.": {
+                            "NNP": 1
+                        },
+                        "Avenue": {
+                            "NNP": 20
+                        },
+                        "HYCIENE": {
+                            "NN": 1
+                        },
+                        "People": {
+                            "NNPS": 1
+                        },
+                        "Aid": {
+                            "NNP": 1
+                        },
+                        "as": {
+                            "IN": 1
+                        },
+                        "prompt": {
+                            "JJ": 1
+                        },
+                        "TUBERculosis": {
+                            "NNP": 1
+                        },
+                        "Ellis": {
+                            "NNP": 1
+                        },
+                        "CoMMIssion": {
+                            "NN": 1
+                        },
+                        "Health": {
+                            "NNP": 3
+                        },
+                        "NW.": {
+                            "NNP": 5
+                        },
+                        "1041": {
+                            "CD": 1
+                        },
+                        "Herndon": {
+                            "NNP": 1
+                        },
+                        "-LRB-": {
+                            "-LRB-": 3
+                        },
+                        "Madison": {
+                            "NNP": 2
+                        },
+                        "Elks": {
+                            "NNP": 1
+                        },
+                        "1114": {
+                            "CD": 1
+                        },
+                        "INFANT": {
+                            "NNP": 1
+                        },
+                        "703": {
+                            "CD": 1
+                        },
+                        "or": {
+                            "CC": 3
+                        },
+                        "Cutter": {
+                            "NNP": 1
+                        },
+                        "Co.": {
+                            "NNP": 2
+                        },
+                        "OF": {
+                            "IN": 1
+                        },
+                        "ORGANIZATION": {
+                            "NNP": 2
+                        },
+                        "MoRTALITY": {
+                            "NNP": 1
+                        },
+                        "TUsk": {
+                            "NN": 1
+                        },
+                        "such": {
+                            "JJ": 1
+                        },
+                        "they": {
+                            "PRP": 1
+                        },
+                        "National": {
+                            "NNP": 2
+                        },
+                        "Cincinnati": {
+                            "NNP": 1
+                        },
+                        "SAGE": {
+                            "NNP": 1
+                        },
+                        "1ty": {
+                            "JJ": 1
+                        },
+                        "Ill.": {
+                            "NNP": 6
+                        },
+                        "Broadway": {
+                            "NNP": 2
+                        },
+                        "CHURCH": {
+                            "NN": 1
+                        },
+                        "347": {
+                            "CD": 1
+                        },
+                        "Hampton": {
+                            "NNP": 1
+                        },
+                        "CRoss": {
+                            "NNPS": 1
+                        },
+                        "N.C.": {
+                            "NNP": 1
+                        },
+                        "3511": {
+                            "CD": 1
+                        },
+                        "Chicago": {
+                            "NNP": 6
+                        },
+                        "to": {
+                            "TO": 4
+                        },
+                        "910": {
+                            "CD": 1
+                        },
+                        "Austin": {
+                            "NNP": 1
+                        },
+                        "OFFICIAL": {
+                            "NNP": 1
+                        },
+                        "Parkway": {
+                            "NNP": 1
+                        },
+                        "CHURCHEs": {
+                            "NNS": 1
+                        },
+                        "Ala.": {
+                            "NNP": 1
+                        },
+                        "-": {
+                            ":": 1
+                        },
+                        "ATLANTA": {
+                            "NNP": 1
+                        },
+                        "county": {
+                            "NN": 1
+                        },
+                        "you": {
+                            "PRP": 1
+                        },
+                        "Service": {
+                            "NNP": 1
+                        },
+                        "INSTITUTE": {
+                            "NNP": 1
+                        },
+                        "Rºtter": {
+                            "NNP": 1
+                        },
+                        "I.B.P.O.E.W.": {
+                            "NNP": 1
+                        },
+                        "SocIETY": {
+                            "NN": 2
+                        },
+                        ",": {
+                            ",": 123
+                        },
+                        "HYGIENE": {
+                            "NNP": 1
+                        },
+                        "CAROLINA": {
+                            "NNP": 1
+                        },
+                        "Social": {
+                            "NNP": 2
+                        },
+                        "advise": {
+                            "VB": 1
+                        },
+                        "Forty-third": {
+                            "NNP": 1
+                        },
+                        "these": {
+                            "DT": 1
+                        },
+                        "help": {
+                            "NN": 1
+                        },
+                        "HEALTH": {
+                            "NNP": 6
+                        },
+                        "Tex.": {
+                            "NNP": 1
+                        },
+                        "REcREATION": {
+                            "NNP": 1
+                        },
+                        "Ation": {
+                            "NNP": 3
+                        },
+                        "Indiana": {
+                            "NNP": 1
+                        },
+                        "1": {
+                            "CD": 1
+                        },
+                        "NURSING": {
+                            "NN": 1
+                        },
+                        "SERVICE": {
+                            "NNP": 2,
+                            "NN": 1
+                        },
+                        "Forty-first": {
+                            "NNP": 1
+                        },
+                        "Write": {
+                            "VB": 1
+                        },
+                        "Seventeenth": {
+                            "NNP": 1
+                        },
+                        "RoseNWAld": {
+                            "NNP": 1
+                        },
+                        "4901": {
+                            "CD": 1
+                        },
+                        "can": {
+                            "MD": 2
+                        },
+                        "on": {
+                            "IN": 3
+                        },
+                        "MENTAL": {
+                            "JJ": 1
+                        },
+                        "UNITED": {
+                            "NNP": 2
+                        },
+                        "25": {
+                            "CD": 1
+                        },
+                        "MUTUAL": {
+                            "JJ": 1
+                        },
+                        "BLINDNess": {
+                            "NN": 1
+                        },
+                        "Association": {
+                            "NNP": 16
+                        },
+                        "1133": {
+                            "CD": 1
+                        },
+                        "BUREAU": {
+                            "NNP": 1
+                        },
+                        "JULIUS": {
+                            "NNP": 1
+                        },
+                        "capital": {
+                            "NN": 1
+                        },
+                        "Street": {
+                            "NNP": 11
+                        },
+                        "York": {
+                            "NNP": 23
+                        },
+                        "-RRB-": {
+                            "-RRB-": 3
+                        },
+                        "If": {
+                            "IN": 1
+                        },
+                        "Society": {
+                            "NNP": 1
+                        },
+                        "145": {
+                            "CD": 1
+                        },
+                        "315": {
+                            "CD": 1
+                        },
+                        "URBAN": {
+                            "NNP": 1
+                        },
+                        "Ohio": {
+                            "NNP": 1
+                        },
+                        "Y.W.C.A.": {
+                            "NNP": 1
+                        },
+                        "INstitute": {
+                            "NN": 1
+                        },
+                        "STATEs": {
+                            "NNP": 1
+                        },
+                        "D.C.": {
+                            "NNP": 8
+                        },
+                        "will": {
+                            "MD": 1
+                        },
+                        "Ed": {
+                            "NNP": 2
+                        },
+                        "GARDEN": {
+                            "NNP": 1
+                        },
+                        "Week": {
+                            "NN": 1,
+                            "NNP": 1
+                        },
+                        "City": {
+                            "NNP": 20
+                        },
+                        "their": {
+                            "PRP$": 1
+                        },
+                        "Jackson": {
+                            "NNP": 1
+                        },
+                        "specific": {
+                            "JJ": 1
+                        },
+                        "Welfare": {
+                            "NNP": 1
+                        },
+                        "Brazos": {
+                            "NNP": 1
+                        },
+                        "not": {
+                            "RB": 1
+                        },
+                        "BAR": {
+                            "NNP": 1
+                        },
+                        "Busin": {
+                            "NNP": 1
+                        },
+                        "1500": {
+                            "CD": 1
+                        },
+                        "End": {
+                            "NNP": 1
+                        },
+                        "STATES": {
+                            "NNS": 1
+                        },
+                        "Associated": {
+                            "NNP": 1
+                        },
+                        "600": {
+                            "CD": 1
+                        },
+                        "UNIvERsity": {
+                            "NNP": 1
+                        },
+                        "use": {
+                            "VB": 2
+                        },
+                        "COOPERATION": {
+                            "NN": 1
+                        },
+                        "year-round": {
+                            "JJ": 1
+                        },
+                        "put": {
+                            "VB": 1
+                        },
+                        "LIFE": {
+                            "NNP": 2
+                        },
+                        "GOVERNMENT": {
+                            "NNP": 1
+                        },
+                        "BoARD": {
+                            "NNP": 1
+                        },
+                        "cooperating": {
+                            "VBG": 1
+                        },
+                        "Westfield": {
+                            "NNP": 1
+                        },
+                        "Tuberculosis": {
+                            "NN": 1
+                        },
+                        "ATION": {
+                            "NN": 1
+                        },
+                        "JEANEs": {
+                            "NNP": 1
+                        },
+                        "branches": {
+                            "NNS": 1
+                        },
+                        "United": {
+                            "NNP": 1
+                        },
+                        "Va.": {
+                            "NNP": 2
+                        },
+                        "18": {
+                            "CD": 1
+                        },
+                        "cooperation": {
+                            "NN": 1
+                        },
+                        "New": {
+                            "NNP": 23
+                        },
+                        "Found": {
+                            "JJ": 1,
+                            "NNP": 2
+                        },
+                        "State": {
+                            "NN": 2,
+                            "NNP": 2
+                        },
+                        "mailing": {
+                            "NN": 1
+                        },
+                        "130": {
+                            "CD": 2
+                        },
+                        "render": {
+                            "VB": 1
+                        },
+                        "MEDICAL": {
+                            "NNP": 1
+                        },
+                        "assistance": {
+                            "NN": 1
+                        },
+                        "CLEAN-UP": {
+                            "NN": 1
+                        },
+                        ":": {
+                            ":": 1
+                        },
+                        "INTERRAcIAL": {
+                            "NNP": 1
+                        },
+                        "CoMMITTEE": {
+                            "NN": 1
+                        },
+                        "West": {
+                            "NNP": 3
+                        },
+                        "Committee": {
+                            "NNP": 1
+                        },
+                        "Place": {
+                            "NNP": 1
+                        },
+                        "Twentysecond": {
+                            "NNP": 1
+                        },
+                        "105": {
+                            "CD": 1
+                        },
+                        "Institute": {
+                            "NNP": 1
+                        },
+                        "Color": {
+                            "NNP": 2
+                        },
+                        "organizations": {
+                            "NNS": 1
+                        },
+                        "ExtENsion": {
+                            "NN": 1
+                        },
+                        "3423": {
+                            "CD": 1
+                        },
+                        "3737": {
+                            "CD": 1
+                        },
+                        "AND": {
+                            "CC": 1
+                        },
+                        "INSURANCE": {
+                            "NNP": 1
+                        },
+                        "Ctiy": {
+                            "NNP": 1
+                        },
+                        "700": {
+                            "CD": 1
+                        },
+                        "Also": {
+                            "RB": 1
+                        },
+                        "PUBLIc": {
+                            "NNP": 2
+                        },
+                        "needs": {
+                            "VBZ": 1
+                        },
+                        "DEPARTMENT": {
+                            "NNP": 3
+                        },
+                        "RED": {
+                            "NNP": 1
+                        },
+                        "O": {
+                            "NNP": 1
+                        },
+                        "FUND": {
+                            "NNP": 2
+                        },
+                        "HEAlth": {
+                            "NN": 1,
+                            "NNP": 2
+                        },
+                        "known": {
+                            "VBN": 1
+                        },
+                        "Local": {
+                            "NNP": 1
+                        },
+                        "Fourth": {
+                            "JJ": 1
+                        },
+                        "HowARD": {
+                            "NNP": 1
+                        },
+                        "INTERNATIONAL": {
+                            "NNP": 1
+                        },
+                        "NEGRO": {
+                            "NNP": 5
+                        },
+                        "EGEE": {
+                            "NN": 1
+                        },
+                        "N.J.": {
+                            "NNP": 1
+                        },
+                        "States": {
+                            "NNP": 1
+                        },
+                        "write": {
+                            "VB": 1
+                        },
+                        "of": {
+                            "IN": 9
+                        },
+                        "STATE": {
+                            "NN": 1
+                        },
+                        "and": {
+                            "CC": 5
+                        },
+                        "726": {
+                            "CD": 1
+                        },
+                        "RUssell": {
+                            "NNP": 1
+                        },
+                        "TExAs": {
+                            "NNP": 1
+                        },
+                        "received": {
+                            "VBD": 1
+                        },
+                        "Council": {
+                            "NNP": 4
+                        },
+                        "Southern": {
+                            "NNP": 1
+                        },
+                        "Michigan": {
+                            "NNP": 1
+                        },
+                        "D": {
+                            "NNP": 2
+                        },
+                        "METRopolitan": {
+                            "NNP": 1
+                        },
+                        "definitely": {
+                            "RB": 1
+                        },
+                        "AGRICULTURE": {
+                            "NNP": 1
+                        },
+                        "Building": {
+                            "NNP": 3
+                        },
+                        "CANceR": {
+                            "NN": 1
+                        },
+                        "addresses": {
+                            "NNS": 1
+                        },
+                        "HEART": {
+                            "NNP": 1
+                        },
+                        "the": {
+                            "DT": 2
+                        },
+                        "North": {
+                            "NNP": 1
+                        },
+                        "only": {
+                            "RB": 1
+                        }
+                    }
+                },
+                "footer": null,
+                "calculatedLanguage": "en"
+            },
+            {
+                "seq": "00000008",
+                "version": "f1d7109a8731d294a3d7b70fcb80b38c",
+                "tokenCount": 492,
+                "lineCount": 46,
+                "emptyLineCount": 1,
+                "sentenceCount": 31,
+                "header": null,
+                "body": {
+                    "tokenCount": 492,
+                    "lineCount": 46,
+                    "emptyLineCount": 1,
+                    "sentenceCount": 31,
+                    "capAlphaSeq": 4,
+                    "beginCharCount": {
+                        "e": 1,
+                        "s": 1,
+                        "8": 1,
+                        "*": 1,
+                        "4": 1,
+                        "9": 1,
+                        "N": 1,
+                        "T": 2,
+                        "t": 2,
+                        "u": 1,
+                        "U": 2,
+                        "f": 1,
+                        "F": 1,
+                        "A": 1,
+                        "a": 3,
+                        "5": 1,
+                        "m": 1,
+                        "M": 1,
+                        "I": 1,
+                        "6": 1,
+                        "1": 2,
+                        "B": 1,
+                        "P": 1,
+                        "p": 2,
+                        "2": 2,
+                        "C": 1,
+                        "H": 3,
+                        "c": 3,
+                        "W": 1,
+                        "(": 1,
+                        "7": 1,
+                        "3": 1,
+                        "o": 1
+                    },
+                    "endCharCount": {
+                        "E": 1,
+                        "e": 4,
+                        ".": 13,
+                        "y": 2,
+                        "T": 1,
+                        "f": 1,
+                        "F": 1,
+                        ")": 1,
+                        "I": 1,
+                        "-": 6,
+                        "g": 1,
+                        "l": 1,
+                        "c": 1,
+                        "h": 2,
+                        "K": 1,
+                        ":": 1,
+                        "k": 2,
+                        ">": 1,
+                        "o": 3,
+                        "S": 1
+                    },
+                    "tokenPosCount": {
+                        "health": {
+                            "NN": 1
+                        },
+                        "quality": {
+                            "NN": 1
+                        },
+                        "application": {
+                            "NN": 1
+                        },
+                        "NATIONAL": {
+                            "NNP": 1
+                        },
+                        "for": {
+                            "IN": 8
+                        },
+                        "program": {
+                            "NN": 1
+                        },
+                        "schools": {
+                            "NNS": 2
+                        },
+                        "school": {
+                            "NN": 6
+                        },
+                        "conditions": {
+                            "NNS": 1
+                        },
+                        "standing": {
+                            "NN": 1
+                        },
+                        "community": {
+                            "NN": 1
+                        },
+                        "further": {
+                            "JJ": 1
+                        },
+                        "Each": {
+                            "DT": 1
+                        },
+                        "8": {
+                            "CD": 1
+                        },
+                        "For": {
+                            "IN": 1
+                        },
+                        "in": {
+                            "IN": 4
+                        },
+                        "21574-33": {
+                            "CD": 1
+                        },
+                        "have": {
+                            "VBP": 1
+                        },
+                        "RULES": {
+                            "NNS": 1
+                        },
+                        "choose": {
+                            "VB": 1
+                        },
+                        "are": {
+                            "VBP": 4
+                        },
+                        "is": {
+                            "VBZ": 1
+                        },
+                        "*": {
+                            "SYM": 1
+                        },
+                        "Negro": {
+                            "NNP": 7
+                        },
+                        "Beginning": {
+                            "VBG": 1
+                        },
+                        "subject": {
+                            "JJ": 3,
+                            "NN": 6
+                        },
+                        "4": {
+                            "LS": 1
+                        },
+                        "All": {
+                            "DT": 2
+                        },
+                        "soon": {
+                            "RB": 1
+                        },
+                        "given": {
+                            "VBN": 1
+                        },
+                        "Washington": {
+                            "NNP": 2
+                        },
+                        "They": {
+                            "PRP": 1
+                        },
+                        "size": {
+                            "NN": 1
+                        },
+                        "than": {
+                            "IN": 2
+                        },
+                        "iſ": {
+                            "NN": 1
+                        },
+                        "This": {
+                            "DT": 1
+                        },
+                        ".": {
+                            ".": 30
+                        },
+                        "15": {
+                            "CD": 1
+                        },
+                        "but": {
+                            "CC": 1
+                        },
+                        "UNIVERSITY": {
+                            "NNP": 1
+                        },
+                        "subjects": {
+                            "NNS": 3
+                        },
+                        "9": {
+                            "CD": 1
+                        },
+                        "best": {
+                            "JJS": 1
+                        },
+                        "giving": {
+                            "VBG": 1
+                        },
+                        "return": {
+                            "NN": 1
+                        },
+                        "THE": {
+                            "DT": 1
+                        },
+                        "accompanied": {
+                            "VBN": 1
+                        },
+                        "follows": {
+                            "VBZ": 1
+                        },
+                        "facilitate": {
+                            "VB": 1
+                        },
+                        "observance": {
+                            "NN": 1
+                        },
+                        "must": {
+                            "MD": 6
+                        },
+                        "short": {
+                            "JJ": 1
+                        },
+                        "had": {
+                            "VBN": 1
+                        },
+                        "features": {
+                            "NNS": 1
+                        },
+                        "Form": {
+                            "NN": 1
+                        },
+                        "every": {
+                            "DT": 1
+                        },
+                        "enter": {
+                            "VB": 1
+                        },
+                        "opportunity": {
+                            "NN": 1
+                        },
+                        "intended": {
+                            "VBN": 1
+                        },
+                        "Public": {
+                            "NNP": 2
+                        },
+                        "1932": {
+                            "CD": 1
+                        },
+                        "a": {
+                            "DT": 7
+                        },
+                        "participants": {
+                            "NNS": 1
+                        },
+                        "information": {
+                            "NN": 1
+                        },
+                        "NOTE": {
+                            "VB": 1
+                        },
+                        "reproduction": {
+                            "NN": 1
+                        },
+                        "transmittal": {
+                            "JJ": 1
+                        },
+                        "colored": {
+                            "VBN": 1
+                        },
+                        "as": {
+                            "IN": 5
+                        },
+                        "5": {
+                            "CD": 1
+                        },
+                        "year": {
+                            "NN": 2
+                        },
+                        "Health": {
+                            "NNP": 12
+                        },
+                        "10": {
+                            "CD": 1
+                        },
+                        "continued": {
+                            "VBN": 1
+                        },
+                        "beginning": {
+                            "NN": 1
+                        },
+                        "consideration": {
+                            "NN": 1
+                        },
+                        "-LRB-": {
+                            "-LRB-": 5
+                        },
+                        "conducted": {
+                            "VBN": 1
+                        },
+                        "popular": {
+                            "JJ": 1
+                        },
+                        "or": {
+                            "CC": 4
+                        },
+                        "submit": {
+                            "VB": 1
+                        },
+                        "OF": {
+                            "IN": 1
+                        },
+                        "such": {
+                            "JJ": 1
+                        },
+                        "secondary": {
+                            "JJ": 3
+                        },
+                        "each": {
+                            "DT": 1
+                        },
+                        "National": {
+                            "NNP": 7
+                        },
+                        "characters": {
+                            "NNS": 1
+                        },
+                        "decision": {
+                            "NN": 1
+                        },
+                        "work": {
+                            "NN": 1
+                        },
+                        "that": {
+                            "IN": 1,
+                            "DT": 1
+                        },
+                        "contest": {
+                            "NN": 7
+                        },
+                        "rooms": {
+                            "NNS": 1
+                        },
+                        "ANNOUNCEMENT": {
+                            "NNP": 1
+                        },
+                        "chosen": {
+                            "VBN": 2
+                        },
+                        "to": {
+                            "TO": 7
+                        },
+                        "become": {
+                            "VB": 1
+                        },
+                        "June": {
+                            "NNP": 1
+                        },
+                        "letter": {
+                            "NN": 1
+                        },
+                        "Service": {
+                            "NNP": 2
+                        },
+                        ",": {
+                            ",": 23
+                        },
+                        "most": {
+                            "RBS": 1
+                        },
+                        "poster": {
+                            "NN": 15
+                        },
+                        "HEALTH": {
+                            "NNP": 1
+                        },
+                        "6": {
+                            "CD": 1
+                        },
+                        "personal": {
+                            "JJ": 1
+                        },
+                        "desirable": {
+                            "JJ": 1
+                        },
+                        "1": {
+                            "CD": 2
+                        },
+                        "The": {
+                            "DT": 8
+                        },
+                        "choosing": {
+                            "VBG": 1
+                        },
+                        "awards": {
+                            "NNS": 1
+                        },
+                        "same": {
+                            "JJ": 1
+                        },
+                        "b": {
+                            "LS": 1
+                        },
+                        "individual": {
+                            "JJ": 1
+                        },
+                        "successful": {
+                            "JJ": 1
+                        },
+                        "grade": {
+                            "NN": 1
+                        },
+                        "-RRB-": {
+                            "-RRB-": 5
+                        },
+                        "simple": {
+                            "JJ": 1
+                        },
+                        "III": {
+                            "NNP": 1
+                        },
+                        "scene": {
+                            "NN": 1
+                        },
+                        "final": {
+                            "JJ": 1
+                        },
+                        "appropriate": {
+                            "JJ": 1
+                        },
+                        "selection": {
+                            "NN": 1
+                        },
+                        "by": {
+                            "IN": 5
+                        },
+                        "1934": {
+                            "CD": 2
+                        },
+                        "official": {
+                            "JJ": 2
+                        },
+                        "D.C.": {
+                            "NNP": 2
+                        },
+                        "WEEK": {
+                            "NNP": 1
+                        },
+                        "distinct": {
+                            "JJ": 1
+                        },
+                        "story": {
+                            "NN": 1
+                        },
+                        "will": {
+                            "MD": 7
+                        },
+                        "Week": {
+                            "NNP": 10
+                        },
+                        "Application": {
+                            "NN": 1
+                        },
+                        "units": {
+                            "NNS": 1
+                        },
+                        "idealized": {
+                            "JJ": 1
+                        },
+                        "not": {
+                            "RB": 2
+                        },
+                        "practicable": {
+                            "JJ": 1
+                        },
+                        "character": {
+                            "NN": 2
+                        },
+                        "with": {
+                            "IN": 1
+                        },
+                        "means": {
+                            "VBZ": 1
+                        },
+                        "desiring": {
+                            "VBG": 1
+                        },
+                        "give": {
+                            "VB": 1
+                        },
+                        "2": {
+                            "LS": 1
+                        },
+                        "use": {
+                            "NN": 1
+                        },
+                        "make": {
+                            "VB": 1
+                        },
+                        "judges": {
+                            "NNS": 2
+                        },
+                        "It": {
+                            "PRP": 1
+                        },
+                        "class": {
+                            "NN": 1
+                        },
+                        "its": {
+                            "PRP$": 1
+                        },
+                        "shall": {
+                            "MD": 2
+                        },
+                        "property": {
+                            "NN": 1
+                        },
+                        "an": {
+                            "DT": 3
+                        },
+                        "eligible": {
+                            "JJ": 1
+                        },
+                        "original": {
+                            "JJ": 1
+                        },
+                        "be": {
+                            "VB": 14
+                        },
+                        "c": {
+                            "LS": 1
+                        },
+                        "POSTER": {
+                            "NNP": 1
+                        },
+                        "where": {
+                            "WRB": 1
+                        },
+                        "United": {
+                            "NNP": 2
+                        },
+                        "unit": {
+                            "NN": 2
+                        },
+                        "rules": {
+                            "NNS": 1
+                        },
+                        "several": {
+                            "JJ": 1
+                        },
+                        "participate": {
+                            "VB": 1
+                        },
+                        "recommended": {
+                            "VBN": 1
+                        },
+                        "7": {
+                            "CD": 1
+                        },
+                        "As": {
+                            "RB": 1
+                        },
+                        "between": {
+                            "IN": 1
+                        },
+                        ":": {
+                            ":": 1
+                        },
+                        "CONTEST": {
+                            "NNP": 1
+                        },
+                        "Committee": {
+                            "NNP": 4
+                        },
+                        "--": {
+                            ":": 2
+                        },
+                        "April": {
+                            "NNP": 1
+                        },
+                        "activity": {
+                            "NN": 1
+                        },
+                        "SPECIAL": {
+                            "NNP": 1
+                        },
+                        "CoMMittee": {
+                            "NNP": 1
+                        },
+                        "except": {
+                            "IN": 1
+                        },
+                        "3": {
+                            "LS": 1
+                        },
+                        "However": {
+                            "RB": 2
+                        },
+                        "made": {
+                            "VBN": 1
+                        },
+                        "AND": {
+                            "CC": 1
+                        },
+                        "formal": {
+                            "JJ": 1
+                        },
+                        "''": {
+                            "''": 1
+                        },
+                        "Send": {
+                            "VB": 1
+                        },
+                        "important": {
+                            "JJ": 1
+                        },
+                        "Unusual": {
+                            "JJ": 1
+                        },
+                        "requests": {
+                            "NNS": 1
+                        },
+                        "elementary": {
+                            "JJ": 2
+                        },
+                        "entered": {
+                            "VBN": 3,
+                            "VBD": 1
+                        },
+                        "some": {
+                            "DT": 3
+                        },
+                        "composition": {
+                            "NN": 2
+                        },
+                        "Go-E-R-E-P-R-N-of-F-C-E": {
+                            "NN": 1
+                        },
+                        "possible": {
+                            "JJ": 1
+                        },
+                        "Any": {
+                            "DT": 1
+                        },
+                        "may": {
+                            "MD": 2
+                        },
+                        "NEGRO": {
+                            "NNP": 1
+                        },
+                        "elimination": {
+                            "NN": 1
+                        },
+                        "States": {
+                            "NNP": 2
+                        },
+                        "ensuing": {
+                            "VBG": 1
+                        },
+                        "write": {
+                            "VB": 1
+                        },
+                        "of": {
+                            "IN": 16
+                        },
+                        "and": {
+                            "CC": 6
+                        },
+                        "primary": {
+                            "JJ": 1
+                        },
+                        "received": {
+                            "VBN": 1
+                        },
+                        "one": {
+                            "CD": 3
+                        },
+                        "high": {
+                            "JJ": 1
+                        },
+                        ">": {
+                            "JJR": 1
+                        },
+                        "suitable": {
+                            "JJ": 1
+                        },
+                        "prevented": {
+                            "VBN": 1
+                        },
+                        "later": {
+                            "RB": 2
+                        },
+                        "the": {
+                            "DT": 30
+                        },
+                        "only": {
+                            "RB": 1
+                        }
+                    }
+                },
+                "footer": null,
+                "calculatedLanguage": "en"
+            }
+        ]
+    }
+}
