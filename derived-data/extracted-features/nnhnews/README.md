@@ -1,4 +1,4 @@
-This directory contains the HTRC Extracted Features files for for 5 volumes of anthologies of the National Negro Health News quarterly publication, jointly published by the National Negro Health Movement and the U.S. Public Health Service. These volumes were identified and compiled by Dr. Kim Gallon. There is an separate JSON file for each file. 
+This directory contains the HTRC Extracted Features files for 5 volumes of anthologies of the National Negro Health News quarterly publication, jointly published by the National Negro Health Movement and the U.S. Public Health Service. These volumes were identified and compiled by Dr. Kim Gallon. There is an separate JSON file for each file. 
 
 The file name prefix is the “clean” HathiTrust ID for the volume. See “clean” HT IDs below. 
 
