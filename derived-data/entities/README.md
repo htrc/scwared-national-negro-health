@@ -2,9 +2,9 @@
 This directory contains the entities (or “named entities”) for 5 volumes of anthologies of the National Negro Health News quarterly publication, jointly published by the National Negro Health Movement and the U.S. Public Health Service, and for 15 volumes of anthologies of publications released during National Negro Health Week, an annual observance jointly organized by the National Negro Health Movement and the U.S. Public Health Service. These volumes were identified and compiled by Dr. Kim Gallon. 
 
 The entities are available as two zip archives:
+- `national-negro-health-entities.zip` contains a single `.csv` file containing all the entities for all 20 volumes.
+- `national-negro-health-entities-by-volume.zip` includes the same data as a separate `.csv` file for each of the 20 volumes.
 
-- `history-of-black-writing-entities.zip` contains a single `.csv` file containing all the entities for all 1997 volumes.
-- `history-of-black-writing-entities-by-volume.zip` includes the same data as a separate `.csv` file for each of the 1997 volumes.
 ## Entity files
 The entity files for each English-language SCWAReD workset were generated using [spaCy's Transformer](https://spacy.io/api/transformer) implementation and their `en_core_web_trf` transformer model, version 3.6.1. This allows us to leverage a large language model to get state-of-the-art named entity recognition (NER) results that achieve a high level of accuracy. The data was accessed and the NER pipeline was implemented using [HTRC Data Capsule](https://htrc.atlassian.net/wiki/spaces/COM/pages/43286886/HTRC+Data+Capsule+Environment) environment, with many of the books being subject to copyright, which prevents their full text from being shared and accessed directly.
 
